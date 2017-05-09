@@ -31,11 +31,17 @@ extra:
   font:
       text: 'Open Sans'
       code: 'Ubuntu Mono'
+  social:
+      - type: 'twitter'
+        link: 'https://twitter.com/inspirythemes'
+      - type: 'facebook'
+        link: 'https://www.facebook.com/InspiryThemes/'
 
 pages:
     - 0. Start Here: index.md
     - 1. Installation: installation.md
     - 2. Customization: about.md
+
 
 markdown_extensions:
   - admonition
