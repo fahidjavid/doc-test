@@ -1,3 +1,3 @@
 # TourPress WordPress Theme Documentation
 
-![img](img/screenshot.png)
+![img](docs/img/screenshot.png)
