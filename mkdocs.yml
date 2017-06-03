@@ -38,9 +38,8 @@ extra:
         link: 'https://www.facebook.com/InspiryThemes/'
 
 pages:
-    - 0. Start Here: index.md
-    - 1. Installation: installation.md
-    - 2. Customization: about.md
+    - 1. Introduction: index.md
+    - 2. Basic Setup: about.md
 
 
 markdown_extensions:

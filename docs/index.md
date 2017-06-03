@@ -1,25 +1,17 @@
-# TourPress WordPress Theme
+# TourPress
 
-!!! success "UPDATED — a few hours ago."
+!!! success "This documentation is last updated on 10 May 2017"
 
-##Getting Started!
-A purpose oriented handcrafted WordPress theme for Tour Packages and Booking. This site serves as the documentation to help you understand this theme better. 
+## Introduction
+Thank you for purchasing TourPress WordPress Theme . If you have any question that is beyond the scope of this documentation, Please feel free to ask for help on [Our Support Site](https://support.inspirythemes.com/).
 
-TourPress WordPress theme is made to enforce a more natural and simpler user experience. Which is why you'll find it easy to use and fast at the same time. 
+!!! warning "Disclaimer"
+    We offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee our themes will work properly with all third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, We cannot facilitate support for any conflicts that might arise with this theme's default functionality. The TourPress WordPress theme is presented as it is.
 
-Similarly, this documentation is to the point. Just take a look at the menu and find what you're looking for. If it is the first time you're visiting this documentation then make sure you go through all of it.
+### Themeforest Item Purchase Code to Signup on Support Site
+Please visit Knowledge Base article on [How to Get Themeforest Item Purchase Code](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest to signup on our support site.
 
-## Easy Steps to Setting up TourPress Theme
+### Updating WordPress Theme
+If you want to update your theme then you can consult Knowledge Base article on [Update Theme Using Envato WordPress Toolkit](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/) for auto update OR you can consult the Knowledge Base article on [Better Way to Update WordPress Theme](https://support.inspirythemes.com/knowledgebase/better-way-to-update-wordpress-theme/) for manual update.
 
-1. [INSTALLATION](installation.md)
-
-If you like this theme, then support us by rating it with 5 stars.
-
-!!! tip "CONTACT SUPPORT"
-     You can search your questions from the search bar (top right corner). Here, get in touch with our [support team](https://support.inspirythemes.com/ask-question/).
-
-!!! bug "BUG REPORTS"
-    Find a bug in the documentation? Create an [issue here](https://github.com/fahidjavid/tp-doc/issues/new)!
-
-!!! warning "DISCLAIMER"
-    We provide limited support. The support is only provided for our products, without any facilitation of 3rd party products or integration. To get support, you should have an active support package. You get free first 6-months support when you buy this theme.
+**If you like this theme, Please support us by rating this theme with 5 stars ([How to rate?](img/how-to-rate-theme.png))**
