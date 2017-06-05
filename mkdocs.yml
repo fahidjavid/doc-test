@@ -39,7 +39,10 @@ extra:
 
 pages:
     - 1. Introduction: index.md
-    - 2. Basic Setup: about.md
+    - 2. Installation: installation.md
+    - 3. Basic Setup: basic-setup.md
+    - 4. Create Pages: pages.md
+    - 5. Add Contents: posts.md
 
 
 markdown_extensions:
