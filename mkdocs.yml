@@ -43,6 +43,7 @@ pages:
     - 3. Basic Setup: basic-setup.md
     - 4. Create Pages: pages.md
     - 5. Add Contents: posts.md
+    - 6. Customization: customization.md
 
 
 markdown_extensions:
