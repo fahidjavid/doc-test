@@ -1,1 +1,0 @@
-!!! success "This documentation is last updated on 10 May 2017"
