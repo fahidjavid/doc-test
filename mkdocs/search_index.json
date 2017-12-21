@@ -1,0 +1,134 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "TourPress WordPress Theme\n\n\n\n\nThis documentation is last updated on 10 May 2017\n\n\n\n\nIntroduction\n\n\nThank you for purchasing TourPress WordPress Theme . If you have any question that is beyond the scope of this documentation, Please feel free to ask for help on \nOur Support Site\n.\n\n\n\n\nDisclaimer\n\n\nWe offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee our themes will work properly with all third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, We cannot facilitate support for any conflicts that might arise with this theme's default functionality. The TourPress WordPress theme is presented as it is.\n\n\n\n\nThemeforest Item Purchase Code to Signup on Support Site\n\n\nPlease visit Knowledge Base article on \nHow to Get Themeforest Item Purchase Code\n to learn about how to get item purchase code from themeforest to signup on our support site.\n\n\nUpdating WordPress Theme\n\n\nIf you want to update your theme then you can consult Knowledge Base article on \nUpdate Theme Using Envato WordPress Toolkit\n for auto update OR you can consult the Knowledge Base article on \nBetter Way to Update WordPress Theme\n for manual update.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)", 
+            "title": "1. Introduction"
+        }, 
+        {
+            "location": "/#tourpress-wordpress-theme", 
+            "text": "This documentation is last updated on 10 May 2017", 
+            "title": "TourPress WordPress Theme"
+        }, 
+        {
+            "location": "/#introduction", 
+            "text": "Thank you for purchasing TourPress WordPress Theme . If you have any question that is beyond the scope of this documentation, Please feel free to ask for help on  Our Support Site .   Disclaimer  We offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee our themes will work properly with all third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, We cannot facilitate support for any conflicts that might arise with this theme's default functionality. The TourPress WordPress theme is presented as it is.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/#themeforest-item-purchase-code-to-signup-on-support-site", 
+            "text": "Please visit Knowledge Base article on  How to Get Themeforest Item Purchase Code  to learn about how to get item purchase code from themeforest to signup on our support site.", 
+            "title": "Themeforest Item Purchase Code to Signup on Support Site"
+        }, 
+        {
+            "location": "/#updating-wordpress-theme", 
+            "text": "If you want to update your theme then you can consult Knowledge Base article on  Update Theme Using Envato WordPress Toolkit  for auto update OR you can consult the Knowledge Base article on  Better Way to Update WordPress Theme  for manual update.  If you like this theme, Please support us by rating this theme with 5 stars ( How to rate? )", 
+            "title": "Updating WordPress Theme"
+        }, 
+        {
+            "location": "/installation/", 
+            "text": "Installing Theme\n\n\nTo start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex \nInstalling WordPress\n.\n\n\nOnce you have a working version of WordPress, You need to download \nAll Files and Documentation\n from themeforest \ndownload page\n and extract the downloaded zip and look for the \ninspiry-tourpress.zip\n.\n\n\nInstalling Theme Via WordPress Dashboard\n\n\n\n\nGo to \nAppearance \n Themes\n section\n\n\n\n\nClick \nAdd New\n\n\n\n\n\n\n\n\nSelect the \nUpload Theme\n option\n\n\n\n\n\n\n\n\nChoose the \ninspiry-tourpress.zip\n file and press \nInstall Now\n\n\n\n\n\n\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\n\n\nAfter Activation of theme. Next Step is Plugins Installation\n\n\n\n\n\n\n\n\nif you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\nInstall Theme Via FTP ( Alternative Way )\n\n\n\n\nAccess your hosting server using an ftp client like \nFileZilla\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation\n\n\nExtract the \ninspiry-tourpress.zip\n file and put the \ninspiry-tourpress\n folder in \nwp-content/themes/\n folder\n\n\nGo to \nWordPress Dashboard \n Appearance \n Themes\n page to activate the theme\n\n\n\n\nInstall Child Theme\n\n\nIt is better to use child theme as if you need to modify anything you modify in child theme only. This way you can easily update your parent theme whenever new update becomes available on themeforest. You can read more about child theme by \nclicking here\n.\n\n\nTo install child theme, you need to upload the \ninspiry-tourpress-child.zip\n and activate it in the same way as you uploaded and activated the parent theme's \ninspiry-tourpress.zip\n.\n\n\nInstall Plugins\n\n\nAfter you have installed and activated the theme, there'll be a list of \nrequired\n and \nrecommended\n plugins at the top of the WordPress dashboard.\n\n\n\n\n\n\nClick on \nBegin Installing Plugins\n\n\n\n\n\n\n\n\nInstall \nrequired\n and \nrecommended\n plugins\n\n\n\n\n\n\n\n\nClick Return to \nRequired Plugins Installer\n when plugins installation is completed.\n\n\n\n\n\n\nActivate the Installed Plugins.", 
+            "title": "2. Installation"
+        }, 
+        {
+            "location": "/installation/#installing-theme", 
+            "text": "To start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex  Installing WordPress .  Once you have a working version of WordPress, You need to download  All Files and Documentation  from themeforest  download page  and extract the downloaded zip and look for the  inspiry-tourpress.zip .", 
+            "title": "Installing Theme"
+        }, 
+        {
+            "location": "/installation/#installing-theme-via-wordpress-dashboard", 
+            "text": "Go to  Appearance   Themes  section   Click  Add New     Select the  Upload Theme  option     Choose the  inspiry-tourpress.zip  file and press  Install Now     Once the theme is uploaded you need to activate it.     After Activation of theme. Next Step is Plugins Installation     if you face any problem during upload through dashboard, please upload the theme using FTP as guided below.", 
+            "title": "Installing Theme Via WordPress Dashboard"
+        }, 
+        {
+            "location": "/installation/#install-theme-via-ftp-alternative-way", 
+            "text": "Access your hosting server using an ftp client like  FileZilla  Go to the  wp-content/themes  folder of your WordPress installation  Extract the  inspiry-tourpress.zip  file and put the  inspiry-tourpress  folder in  wp-content/themes/  folder  Go to  WordPress Dashboard   Appearance   Themes  page to activate the theme", 
+            "title": "Install Theme Via FTP ( Alternative Way )"
+        }, 
+        {
+            "location": "/installation/#install-child-theme", 
+            "text": "It is better to use child theme as if you need to modify anything you modify in child theme only. This way you can easily update your parent theme whenever new update becomes available on themeforest. You can read more about child theme by  clicking here .  To install child theme, you need to upload the  inspiry-tourpress-child.zip  and activate it in the same way as you uploaded and activated the parent theme's  inspiry-tourpress.zip .", 
+            "title": "Install Child Theme"
+        }, 
+        {
+            "location": "/installation/#install-plugins", 
+            "text": "After you have installed and activated the theme, there'll be a list of  required  and  recommended  plugins at the top of the WordPress dashboard.    Click on  Begin Installing Plugins     Install  required  and  recommended  plugins     Click Return to  Required Plugins Installer  when plugins installation is completed.    Activate the Installed Plugins.", 
+            "title": "Install Plugins"
+        }, 
+        {
+            "location": "/basic-setup/", 
+            "text": "Import Demo Contents\n\n\nTop Import Demo Contents follow these steps.\n\n\n\n\nGo to \nAppearance \n Import Demo Data\n\n\n\n\nClick on \nImport Demo Data\n button, wait for import process it may take a couple of minutes to complete :)\n\n\n\n\n\n\n\n\nYou can deactivate and delete \nOne Click Demo Import\n plugin from \nPlugins\n page when import demo data is completed.\n\n\n\n\n\n\nConfigure Reading Settings\n\n\nIt is assumed that \nImport Demo Data\n is completed and you have \nHome\n page and \nBlog\n page available for use. If this is not the case then simply create new pages with names \nHome\n and \nBlog/News\n using \nDefault Template\n.\n\n\nTo configure reading settings you need to go on \nSettings \n Reading\n page and choose the \nFront page displays\n as static page. Then select \nHome\n as Front Page and \nBlog\n as Posts Page and save the settings as displayed in the following screenshot.\n\n\n\n\nConfigure Permalinks Settings\n\n\nTo configure permalinks settings, go to \nSettings \n Permalinks\n page and configure it to the \nPost name\n as displayed in the screenshot given below.", 
+            "title": "3. Basic Setup"
+        }, 
+        {
+            "location": "/basic-setup/#import-demo-contents", 
+            "text": "Top Import Demo Contents follow these steps.   Go to  Appearance   Import Demo Data   Click on  Import Demo Data  button, wait for import process it may take a couple of minutes to complete :)     You can deactivate and delete  One Click Demo Import  plugin from  Plugins  page when import demo data is completed.", 
+            "title": "Import Demo Contents"
+        }, 
+        {
+            "location": "/basic-setup/#configure-reading-settings", 
+            "text": "It is assumed that  Import Demo Data  is completed and you have  Home  page and  Blog  page available for use. If this is not the case then simply create new pages with names  Home  and  Blog/News  using  Default Template .  To configure reading settings you need to go on  Settings   Reading  page and choose the  Front page displays  as static page. Then select  Home  as Front Page and  Blog  as Posts Page and save the settings as displayed in the following screenshot.", 
+            "title": "Configure Reading Settings"
+        }, 
+        {
+            "location": "/basic-setup/#configure-permalinks-settings", 
+            "text": "To configure permalinks settings, go to  Settings   Permalinks  page and configure it to the  Post name  as displayed in the screenshot given below.", 
+            "title": "Configure Permalinks Settings"
+        }, 
+        {
+            "location": "/pages/", 
+            "text": "If you have imported the \nDemo Contents\n already then initial pages are already created and you do not need to create them again.\n\n\n\n\nYou can create a new page from \nPages \n Add New\n page.\n\n\nYou can see a Banner Configuration metabox area for every page where you can set a banner image and a custom title to display on it as displayed in the screenshot given below.\n\n\n\n\nHome Page\n\n\nYou can give a title \nHome\n to this page and select \nHome\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nFeatures List on Homepage\n metabox where you can add homepage features list. See the following image.\n\n\n\n\nBlog Page\n\n\nYou can give a title \nBlog/News\n to this page and select \nDefault Template\n template then click the \nPublish\n button.\n\n\n\n\nAfter that consult \nBasic Setup \n Configure Read Settings\n of this documentation to configure it as Posts Page.\n\n\nTours Page\n\n\nYou can give a title \nTours\n to this page and select a template from four \nTours List\n, \nTours Grid\n, \nTours Grid FullWidth\n and \nTours Gallery\n available templates according to your needs then click the \nPublish\n button.\n\n\n\n\nContact Page\n\n\nYou can give a title \nContact\n to this page and select \nContact\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nContact Information\n metabox with multiple tabs where you can configure the whole contact form settings as displayed in the following screenshot.\n\n\n\n\nFAQs Page\n\n\n\n\nMake sure the \nQuick and Easy FAQs\n plugin is already installed and activated on your site according to the \nInstall Plugins\n section.\n\n\n\n\nYou can give a title \nFAQs\n to this page and select \nDefault Template\n or \nFullWidth\n template. Use a FAQs listing \nshortcode\n to list FAQs then click the \nPublish\n button as displayed in the following screenshot.\n\n\n\n\nYou can see the details and all available shortcodes on the \nQuick and EASY FAQs\n plugin's \ndetail page\n.", 
+            "title": "4. Create Pages"
+        }, 
+        {
+            "location": "/pages/#home-page", 
+            "text": "You can give a title  Home  to this page and select  Home  template then click the  Publish  button.   You will also see a  Features List on Homepage  metabox where you can add homepage features list. See the following image.", 
+            "title": "Home Page"
+        }, 
+        {
+            "location": "/pages/#blog-page", 
+            "text": "You can give a title  Blog/News  to this page and select  Default Template  template then click the  Publish  button.   After that consult  Basic Setup   Configure Read Settings  of this documentation to configure it as Posts Page.", 
+            "title": "Blog Page"
+        }, 
+        {
+            "location": "/pages/#tours-page", 
+            "text": "You can give a title  Tours  to this page and select a template from four  Tours List ,  Tours Grid ,  Tours Grid FullWidth  and  Tours Gallery  available templates according to your needs then click the  Publish  button.", 
+            "title": "Tours Page"
+        }, 
+        {
+            "location": "/pages/#contact-page", 
+            "text": "You can give a title  Contact  to this page and select  Contact  template then click the  Publish  button.   You will also see a  Contact Information  metabox with multiple tabs where you can configure the whole contact form settings as displayed in the following screenshot.", 
+            "title": "Contact Page"
+        }, 
+        {
+            "location": "/pages/#faqs-page", 
+            "text": "Make sure the  Quick and Easy FAQs  plugin is already installed and activated on your site according to the  Install Plugins  section.   You can give a title  FAQs  to this page and select  Default Template  or  FullWidth  template. Use a FAQs listing  shortcode  to list FAQs then click the  Publish  button as displayed in the following screenshot.   You can see the details and all available shortcodes on the  Quick and EASY FAQs  plugin's  detail page .", 
+            "title": "FAQs Page"
+        }, 
+        {
+            "location": "/posts/", 
+            "text": "Add Blog Posts\n\n\nYou can create a new post from \nPosts \n Add New\n page.\n\n\nAdd the post title, content, categories, tags and set a featured image \n(recommended size 750x300)\n then click the \nPublish\n button. As, you can see in the following screenshots.\n\n\n\n\n\n\nYou can see a \nBanner Configuration\n metabox area for every post where you can set a banner image and a custom title to display on it as displayed in the screenshot given below.\n\n\n\n\nAdd Testimonials\n\n\nYou add the testimonial from \nTestimonials \n Add New\n page.\n\n\nAdd the testimonial author name, testimonial text and set the author photo (recommended size 150x150) then click the \nPublish\n button. As, you can see in the following screenshots.\n\n\n\n\nYou can see a \nTestimonial Details\n metabox area for every testimonial post where you can add the author designation and set a rating out of 5 as displayed in the screenshot given below.\n\n\n\n\nAdd Tours\n\n\nYou add the tours from \nEasy Tours \n Add New\n page.\n\n\nAdd the tour name, tour content, destinations, types, months and set the tour featured image (recommended size 530x410) then click the \nPublish\n button. As, you can see in the following screenshots.\n\n\n\n\n\n\nYou can see a \nTour Details\n metabox area with multiple vertical tabs for every tour post where you can add the tour's price, location, gallery images and other important details as you can see in the screenshot given below.", 
+            "title": "5. Add Contents"
+        }, 
+        {
+            "location": "/posts/#add-blog-posts", 
+            "text": "You can create a new post from  Posts   Add New  page.  Add the post title, content, categories, tags and set a featured image  (recommended size 750x300)  then click the  Publish  button. As, you can see in the following screenshots.    You can see a  Banner Configuration  metabox area for every post where you can set a banner image and a custom title to display on it as displayed in the screenshot given below.", 
+            "title": "Add Blog Posts"
+        }, 
+        {
+            "location": "/posts/#add-testimonials", 
+            "text": "You add the testimonial from  Testimonials   Add New  page.  Add the testimonial author name, testimonial text and set the author photo (recommended size 150x150) then click the  Publish  button. As, you can see in the following screenshots.   You can see a  Testimonial Details  metabox area for every testimonial post where you can add the author designation and set a rating out of 5 as displayed in the screenshot given below.", 
+            "title": "Add Testimonials"
+        }, 
+        {
+            "location": "/posts/#add-tours", 
+            "text": "You add the tours from  Easy Tours   Add New  page.  Add the tour name, tour content, destinations, types, months and set the tour featured image (recommended size 530x410) then click the  Publish  button. As, you can see in the following screenshots.    You can see a  Tour Details  metabox area with multiple vertical tabs for every tour post where you can add the tour's price, location, gallery images and other important details as you can see in the screenshot given below.", 
+            "title": "Add Tours"
+        }, 
+        {
+            "location": "/customization/", 
+            "text": "", 
+            "title": "5. Customiation"
+        }
+    ]
+}
