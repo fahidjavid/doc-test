@@ -1,6 +1,6 @@
 # TourPress WordPress Theme
 
-!!! success "This documentation is last updated on 10 May 2017"
+!!! success "This documentation is last updated on 5th Jan 2018"
 
 ## Introduction
 Thank you for purchasing TourPress WordPress Theme . If you have any question that is beyond the scope of this documentation, Please feel free to ask for help on [Our Support Site](https://support.inspirythemes.com/).

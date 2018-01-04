@@ -17,7 +17,7 @@ repo_name: 'GitHub'
 repo_url: 'https://github.com/fahidjavid/tp-doc'
 
 # Copyright
-copyright: 'Copyright &copy; 2017 InspiryThemes'
+copyright: 'Copyright &copy; 2018 InspiryThemes'
 
 theme: 'material'
 theme_dir: 'mkdocs-material/material'
@@ -43,7 +43,7 @@ pages:
     - 3. Basic Setup: basic-setup.md
     - 4. Create Pages: pages.md
     - 5. Add Contents: posts.md
-    - 5. Customiation: customization.md
+    - 6. Customiation: customization.md
 
 
 
