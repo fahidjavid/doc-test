@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "TourPress WordPress Theme\n\n\n\n\nThis documentation is last updated on 10 May 2017\n\n\n\n\nIntroduction\n\n\nThank you for purchasing TourPress WordPress Theme . If you have any question that is beyond the scope of this documentation, Please feel free to ask for help on \nOur Support Site\n.\n\n\n\n\nDisclaimer\n\n\nWe offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee our themes will work properly with all third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, We cannot facilitate support for any conflicts that might arise with this theme's default functionality. The TourPress WordPress theme is presented as it is.\n\n\n\n\nThemeforest Item Purchase Code to Signup on Support Site\n\n\nPlease visit Knowledge Base article on \nHow to Get Themeforest Item Purchase Code\n to learn about how to get item purchase code from themeforest to signup on our support site.\n\n\nUpdating WordPress Theme\n\n\nIf you want to update your theme then you can consult Knowledge Base article on \nUpdate Theme Using Envato WordPress Toolkit\n for auto update OR you can consult the Knowledge Base article on \nBetter Way to Update WordPress Theme\n for manual update.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)", 
+            "text": "TourPress WordPress Theme\n\n\n\n\nThis documentation is last updated on 5\nth\n Jan 2018\n\n\n\n\nIntroduction\n\n\nThank you for purchasing TourPress WordPress Theme . If you have any question that is beyond the scope of this documentation, Please feel free to ask for help on \nOur Support Site\n.\n\n\n\n\nDisclaimer\n\n\nWe offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee our themes will work properly with all third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, We cannot facilitate support for any conflicts that might arise with this theme's default functionality. The TourPress WordPress theme is presented as it is.\n\n\n\n\nThemeforest Item Purchase Code to Signup on Support Site\n\n\nPlease visit Knowledge Base article on \nHow to Get Themeforest Item Purchase Code\n to learn about how to get item purchase code from themeforest to signup on our support site.\n\n\nUpdating WordPress Theme\n\n\nIf you want to update your theme then you can consult Knowledge Base article on \nUpdate Theme Using Envato WordPress Toolkit\n for auto update OR you can consult the Knowledge Base article on \nBetter Way to Update WordPress Theme\n for manual update.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)", 
             "title": "1. Introduction"
         }, 
         {
             "location": "/#tourpress-wordpress-theme", 
-            "text": "This documentation is last updated on 10 May 2017", 
+            "text": "This documentation is last updated on 5 th  Jan 2018", 
             "title": "TourPress WordPress Theme"
         }, 
         {
@@ -57,17 +57,17 @@
         }, 
         {
             "location": "/basic-setup/", 
-            "text": "Import Demo Contents\n\n\nTop Import Demo Contents follow these steps.\n\n\n\n\nGo to \nAppearance \n Import Demo Data\n\n\n\n\nClick on \nImport Demo Data\n button, wait for import process it may take a couple of minutes to complete :)\n\n\n\n\n\n\n\n\nYou can deactivate and delete \nOne Click Demo Import\n plugin from \nPlugins\n page when import demo data is completed.\n\n\n\n\n\n\nConfigure Reading Settings\n\n\nIt is assumed that \nImport Demo Data\n is completed and you have \nHome\n page and \nBlog\n page available for use. If this is not the case then simply create new pages with names \nHome\n and \nBlog/News\n using \nDefault Template\n.\n\n\nTo configure reading settings you need to go on \nSettings \n Reading\n page and choose the \nFront page displays\n as static page. Then select \nHome\n as Front Page and \nBlog\n as Posts Page and save the settings as displayed in the following screenshot.\n\n\n\n\nConfigure Permalinks Settings\n\n\nTo configure permalinks settings, go to \nSettings \n Permalinks\n page and configure it to the \nPost name\n as displayed in the screenshot given below.", 
+            "text": "Import Demo Contents\n\n\nTo Import Demo Contents follow these steps.\n\n\n\n\nGo to \nAppearance \n Import Demo Data\n\n\n\n\nClick on \nImport Demo Data\n button, wait for import process it may take a couple of minutes to complete :)\n\n\n\n\n\n\n\n\nYou can deactivate and delete \nOne Click Demo Import\n plugin from \nPlugins\n page when import demo data is completed.\n\n\n\n\n\n\nConfigure Reading Settings\n\n\nIt is assumed that \nImport Demo Data\n is completed and you have \nHome\n page and \nNews\n page available for use. If this is not the case then simply create new pages with names \nHome\n using \nHome\n template and \nBlog/News\n using \nDefault Template\n.\n\n\nTo configure reading settings you need to go on \nSettings \n Reading\n page and choose the \nFront page displays\n as static page. Then select \nHome\n as Front Page and \nNews\n as Posts Page and save the settings as displayed in the following screenshot.\n\n\n\n\nConfigure Permalinks Settings\n\n\nTo configure permalinks settings, go to \nSettings \n Permalinks\n page and configure it to the \nPost name\n as displayed in the screenshot given below.", 
             "title": "3. Basic Setup"
         }, 
         {
             "location": "/basic-setup/#import-demo-contents", 
-            "text": "Top Import Demo Contents follow these steps.   Go to  Appearance   Import Demo Data   Click on  Import Demo Data  button, wait for import process it may take a couple of minutes to complete :)     You can deactivate and delete  One Click Demo Import  plugin from  Plugins  page when import demo data is completed.", 
+            "text": "To Import Demo Contents follow these steps.   Go to  Appearance   Import Demo Data   Click on  Import Demo Data  button, wait for import process it may take a couple of minutes to complete :)     You can deactivate and delete  One Click Demo Import  plugin from  Plugins  page when import demo data is completed.", 
             "title": "Import Demo Contents"
         }, 
         {
             "location": "/basic-setup/#configure-reading-settings", 
-            "text": "It is assumed that  Import Demo Data  is completed and you have  Home  page and  Blog  page available for use. If this is not the case then simply create new pages with names  Home  and  Blog/News  using  Default Template .  To configure reading settings you need to go on  Settings   Reading  page and choose the  Front page displays  as static page. Then select  Home  as Front Page and  Blog  as Posts Page and save the settings as displayed in the following screenshot.", 
+            "text": "It is assumed that  Import Demo Data  is completed and you have  Home  page and  News  page available for use. If this is not the case then simply create new pages with names  Home  using  Home  template and  Blog/News  using  Default Template .  To configure reading settings you need to go on  Settings   Reading  page and choose the  Front page displays  as static page. Then select  Home  as Front Page and  News  as Posts Page and save the settings as displayed in the following screenshot.", 
             "title": "Configure Reading Settings"
         }, 
         {
@@ -77,7 +77,7 @@
         }, 
         {
             "location": "/pages/", 
-            "text": "If you have imported the \nDemo Contents\n already then initial pages are already created and you do not need to create them again.\n\n\n\n\nYou can create a new page from \nPages \n Add New\n page.\n\n\nYou can see a Banner Configuration metabox area for every page where you can set a banner image and a custom title to display on it as displayed in the screenshot given below.\n\n\n\n\nHome Page\n\n\nYou can give a title \nHome\n to this page and select \nHome\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nFeatures List on Homepage\n metabox where you can add homepage features list. See the following image.\n\n\n\n\nBlog Page\n\n\nYou can give a title \nBlog/News\n to this page and select \nDefault Template\n template then click the \nPublish\n button.\n\n\n\n\nAfter that consult \nBasic Setup \n Configure Read Settings\n of this documentation to configure it as Posts Page.\n\n\nTours Page\n\n\nYou can give a title \nTours\n to this page and select a template from four \nTours List\n, \nTours Grid\n, \nTours Grid FullWidth\n and \nTours Gallery\n available templates according to your needs then click the \nPublish\n button.\n\n\n\n\nContact Page\n\n\nYou can give a title \nContact\n to this page and select \nContact\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nContact Information\n metabox with multiple tabs where you can configure the whole contact form settings as displayed in the following screenshot.\n\n\n\n\nFAQs Page\n\n\n\n\nMake sure the \nQuick and Easy FAQs\n plugin is already installed and activated on your site according to the \nInstall Plugins\n section.\n\n\n\n\nYou can give a title \nFAQs\n to this page and select \nDefault Template\n or \nFullWidth\n template. Use a FAQs listing \nshortcode\n to list FAQs then click the \nPublish\n button as displayed in the following screenshot.\n\n\n\n\nYou can see the details and all available shortcodes on the \nQuick and EASY FAQs\n plugin's \ndetail page\n.", 
+            "text": "If you have imported the \nDemo Contents\n already then initial pages are already created and you do not need to create them again.\n\n\n\n\nYou can create a new page from \nPages \n Add New\n page.\n\n\nYou can see a Banner Configuration metabox area for every page where you can set a banner image and a custom title to display on it as you can see in the screenshot given below.\n\n\n\n\nHome Page\n\n\nYou can give a title \nHome\n to this page and select \nHome\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nFeatures List on Homepage\n metabox where you can add homepage features list. See the following image.\n\n\n\n\nBlog Page\n\n\nYou can give a title \nBlog/News\n to this page and select \nDefault Template\n template then click the \nPublish\n button.\n\n\n\n\nAfter that consult \nBasic Setup \n Configure Read Settings\n of this documentation to configure it as Posts Page.\n\n\nTours Page\n\n\nYou can give a title \nTours\n to this page and select a template from four \nTours List\n, \nTours Grid\n, \nTours Grid FullWidth\n and \nTours Gallery\n available templates according to your needs then click the \nPublish\n button.\n\n\n\n\nContact Page\n\n\nYou can give a title \nContact\n to this page and select \nContact\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nContact Information\n metabox with multiple tabs where you can configure the whole contact page settings as displayed in the following screenshot.\n\n\n\n\nFAQs Page\n\n\n\n\nMake sure the \nQuick and Easy FAQs\n plugin is already installed and activated on your site according to the \nInstall Plugins\n section.\n\n\n\n\nYou can give a title \nFAQs\n to this page and select \nDefault Template\n or \nFullWidth\n template. Use a FAQs listing \nshortcode\n to list FAQs then click the \nPublish\n button as displayed in the following screenshot.\n\n\n\n\nYou can see the details and all available shortcodes on the \nQuick and EASY FAQs\n plugin's \ndetail page\n.", 
             "title": "4. Create Pages"
         }, 
         {
@@ -97,7 +97,7 @@
         }, 
         {
             "location": "/pages/#contact-page", 
-            "text": "You can give a title  Contact  to this page and select  Contact  template then click the  Publish  button.   You will also see a  Contact Information  metabox with multiple tabs where you can configure the whole contact form settings as displayed in the following screenshot.", 
+            "text": "You can give a title  Contact  to this page and select  Contact  template then click the  Publish  button.   You will also see a  Contact Information  metabox with multiple tabs where you can configure the whole contact page settings as displayed in the following screenshot.", 
             "title": "Contact Page"
         }, 
         {
@@ -127,8 +127,23 @@
         }, 
         {
             "location": "/customization/", 
-            "text": "", 
-            "title": "5. Customiation"
+            "text": "Modify Theme Styles\n\n\nThere are various options available to modify styles in this theme.\n\n\n\n\n\n\nGo to \nCustomzier \n Additional\n CSS and add styles there.\n\n\n\n\n\n\n\n\nIf you want to add styles in theme CSS file, it is recommended that you use child theme's \nchild-custom.css\n file.\n\n\n\n\n\n\n\n\nIf you do not want to use child theme, then use \ncustom.css\n in parent theme.\n\n\n\n\n\n\n\n\nTranslate The Theme\n\n\nThis theme is fully translation ready. For theme translation to your language please consult our Knowledge Base article on \nHow to translate your theme to your language\n.\n\n\nHire Customization Services\n\n\nIf you need any additional features or want to have modifications in existing theme features then you can contact our theme \ncustomization services team\n.", 
+            "title": "6. Customiation"
+        }, 
+        {
+            "location": "/customization/#modify-theme-styles", 
+            "text": "There are various options available to modify styles in this theme.    Go to  Customzier   Additional  CSS and add styles there.     If you want to add styles in theme CSS file, it is recommended that you use child theme's  child-custom.css  file.     If you do not want to use child theme, then use  custom.css  in parent theme.", 
+            "title": "Modify Theme Styles"
+        }, 
+        {
+            "location": "/customization/#translate-the-theme", 
+            "text": "This theme is fully translation ready. For theme translation to your language please consult our Knowledge Base article on  How to translate your theme to your language .", 
+            "title": "Translate The Theme"
+        }, 
+        {
+            "location": "/customization/#hire-customization-services", 
+            "text": "If you need any additional features or want to have modifications in existing theme features then you can contact our theme  customization services team .", 
+            "title": "Hire Customization Services"
         }
     ]
 }
