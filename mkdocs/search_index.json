@@ -127,17 +127,17 @@
         }, 
         {
             "location": "/customization/", 
-            "text": "Modify Theme Styles\n\n\nThere are various options available to modify styles in this theme.\n\n\n\n\n\n\nGo to \nCustomzier \n Additional\n CSS and add styles there.\n\n\n\n\n\n\n\n\nIf you want to add styles in theme CSS file, it is recommended that you use child theme's \nchild-custom.css\n file.\n\n\n\n\n\n\n\n\nIf you do not want to use child theme, then use \ncustom.css\n in parent theme.\n\n\n\n\n\n\n\n\nTranslate The Theme\n\n\nThis theme is fully translation ready. For theme translation to your language please consult our Knowledge Base article on \nHow to translate your theme to your language\n.\n\n\nHire Customization Services\n\n\nIf you need any additional features or want to have modifications in existing theme features then you can contact our theme \ncustomization services team\n.", 
-            "title": "6. Customiation"
+            "text": "Modify Theme Styles\n\n\nThere are various options available to modify styles in this theme.\n\n\n\n\n\n\nGo to \nCustomzier \n Additional CSS\n and add styles there.\n\n\n\n\n\n\n\n\nIf you want to add styles in theme CSS file, it is recommended that you use child theme's \nchild-custom.css\n file. So it's safe even if you update the parent theme in future.\n\n\n\n\n\n\n\n\nIf you do not want to use child theme, then use \ncustom.css\n in parent theme.\n\n\n\n\n\n\n\n\nTranslate The Theme\n\n\nThis theme is fully translation ready. For the theme translation to your language please consult our Knowledge Base article on \nHow to translate your theme to your language\n.\n\n\nHire Customization Services\n\n\nIf you need any additional features or want to have modifications in existing theme features then you can contact our theme \ncustomization services team\n.", 
+            "title": "6. Customization"
         }, 
         {
             "location": "/customization/#modify-theme-styles", 
-            "text": "There are various options available to modify styles in this theme.    Go to  Customzier   Additional  CSS and add styles there.     If you want to add styles in theme CSS file, it is recommended that you use child theme's  child-custom.css  file.     If you do not want to use child theme, then use  custom.css  in parent theme.", 
+            "text": "There are various options available to modify styles in this theme.    Go to  Customzier   Additional CSS  and add styles there.     If you want to add styles in theme CSS file, it is recommended that you use child theme's  child-custom.css  file. So it's safe even if you update the parent theme in future.     If you do not want to use child theme, then use  custom.css  in parent theme.", 
             "title": "Modify Theme Styles"
         }, 
         {
             "location": "/customization/#translate-the-theme", 
-            "text": "This theme is fully translation ready. For theme translation to your language please consult our Knowledge Base article on  How to translate your theme to your language .", 
+            "text": "This theme is fully translation ready. For the theme translation to your language please consult our Knowledge Base article on  How to translate your theme to your language .", 
             "title": "Translate The Theme"
         }, 
         {
