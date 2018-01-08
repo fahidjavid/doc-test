@@ -2,11 +2,11 @@
 
 There are various options available to modify styles in this theme.
 
-1. Go to **Customzier > Additional** CSS and add styles there.
+1. Go to **Customzier > Additional CSS** and add styles there.
 
     ![img](img/customization-01.png)
     
-2. If you want to add styles in theme CSS file, it is recommended that you use child theme's **child-custom.css** file.
+2. If you want to add styles in theme CSS file, it is recommended that you use child theme's **child-custom.css** file. So it's safe even if you update the parent theme in future.
 
     ![img](img/customization-02.png)
 
@@ -16,7 +16,7 @@ There are various options available to modify styles in this theme.
 
 ## Translate The Theme ##
 
-This theme is fully translation ready. For theme translation to your language please consult our Knowledge Base article on [How to translate your theme to your language](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/).
+This theme is fully translation ready. For the theme translation to your language please consult our Knowledge Base article on [How to translate your theme to your language](https://support.inspirythemes.com/knowledgebase/how-to-translate-your-theme-to-your-language/).
 
 ## Hire Customization Services ##
 

@@ -19,3 +19,4 @@ To configure reading settings you need to go on **Settings > Reading** page and 
 To configure permalinks settings, go to **Settings > Permalinks** page and configure it to the **Post name** as displayed in the screenshot given below.
 
 ![img](img/install-10.png)
+
