@@ -37,13 +37,18 @@ extra:
       - type: 'facebook'
         link: 'https://www.facebook.com/InspiryThemes/'
 
+
+extra_css:
+  - 'stylesheets/style.css'
+
 pages:
     - 1. Introduction: index.md
     - 2. Installation: installation.md
     - 3. Basic Setup: basic-setup.md
     - 4. Create Pages: pages.md
     - 5. Add Contents: posts.md
-    - 6. Customiation: customization.md
+    - 5. WooCommerce Setup: woocommerce.md
+    - 6. Customization: customization.md
 
 
 
