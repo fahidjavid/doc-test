@@ -126,6 +126,56 @@
             "title": "Add Tours"
         }, 
         {
+            "location": "/woocommerce/", 
+            "text": "To setup WooCommerce Shop, you need to install \nWooCommerce\n plugin on your site.\n\n\nInstalling WooCommerce Plugin\n\n\nGo to the \nAppearance \n Plugins \n Add New\n page and search for the \nWooCommerce\n as guided in the following screenshot.\n\n\n\n\nClick on \nInstall Now\n button and then \nActivate\n the plugin.\n\n\nWooCommerce Store Setup\n\n\nOnce you clicked the plugin \nActivate\n button it will take you to the WooCommerce Store Setup page, where you can complete your store setup in steps. See this helping screenshot.\n\n\n\n\nImport Products \n Shop Pages\n\n\nAfter WooCommerce Store Setup completion you can import your Products from your older site via CSV file by clicking on the \nImport products\n button.\n\n\n\n\nOnce you clicked the \nImport products\n button, it will redirect you to the products import page.\n\n\n\n\nCreate Shop Pages\n\n\n\n\nIf you have followed above store setup procedure or you have imported the Shop pages with Products already then you do not need to create them again.\n\n\n\n\nShop Page\n\n\nYou can give a title \nShop\n to this page and select \nDefault Template\n then click the \nPublish\n button.\n\n\n\n\nCart Page\n\n\nYou can give a title \nCart\n to this page and select \nFull Width\n template. Add \n[woocommerce_cart]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nCheckout Page\n\n\nYou can give a title \nCheckout\n to this page and select \nFull Width\n template. Add \n[woocommerce_checkout]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nMy Account Page\n\n\nYou can give a title \nMy account\n to this page and select \nFull Width\n template. Add \n[woocommerce_my_account]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nWooCommerce Settings\n\n\nYou can update WooCommerce Settings from \nWooCommerce \n Settings\n page and its tabs. \n\n\n\n\n\n\n\n\nConfigure Shop Page\n\n\nGo to the \nProducts \n Display\n tab and select \nShop\n page for \nShop page\n option as displayed in the following screenshot.\n\n\n\n\n\n\n\n\nConfigure Cart \n Checkout Pages\n\n\nGo to the \nCheckout \n Checkout options\n tab and select \nCart\n and \nCheckout\n pages accordingly.\n\n\n\n\n\n\n\n\nMy Account Page\n\n\nGo to the \nAccounts\n tab and select \nMy account\n page for the \nMy account page\n option.\n\n\n\n\n\n\n\n\n\n\nIf above guide is not enough for you to setup your shop. Then you can consult WooCommerce plugin's extensive documentation or detailed video tutorials on the following links.\n\n\nGetting Started Documentation\n | \n\nGetting Started Video Tutorials", 
+            "title": "5. WooCommerce Setup"
+        }, 
+        {
+            "location": "/woocommerce/#installing-woocommerce-plugin", 
+            "text": "Go to the  Appearance   Plugins   Add New  page and search for the  WooCommerce  as guided in the following screenshot.   Click on  Install Now  button and then  Activate  the plugin.", 
+            "title": "Installing WooCommerce Plugin"
+        }, 
+        {
+            "location": "/woocommerce/#woocommerce-store-setup", 
+            "text": "Once you clicked the plugin  Activate  button it will take you to the WooCommerce Store Setup page, where you can complete your store setup in steps. See this helping screenshot.", 
+            "title": "WooCommerce Store Setup"
+        }, 
+        {
+            "location": "/woocommerce/#import-products-shop-pages", 
+            "text": "After WooCommerce Store Setup completion you can import your Products from your older site via CSV file by clicking on the  Import products  button.   Once you clicked the  Import products  button, it will redirect you to the products import page.", 
+            "title": "Import Products &amp; Shop Pages"
+        }, 
+        {
+            "location": "/woocommerce/#create-shop-pages", 
+            "text": "If you have followed above store setup procedure or you have imported the Shop pages with Products already then you do not need to create them again.", 
+            "title": "Create Shop Pages"
+        }, 
+        {
+            "location": "/woocommerce/#shop-page", 
+            "text": "You can give a title  Shop  to this page and select  Default Template  then click the  Publish  button.", 
+            "title": "Shop Page"
+        }, 
+        {
+            "location": "/woocommerce/#cart-page", 
+            "text": "You can give a title  Cart  to this page and select  Full Width  template. Add  [woocommerce_cart]  shortcode to the content area then click the  Publish  button.", 
+            "title": "Cart Page"
+        }, 
+        {
+            "location": "/woocommerce/#checkout-page", 
+            "text": "You can give a title  Checkout  to this page and select  Full Width  template. Add  [woocommerce_checkout]  shortcode to the content area then click the  Publish  button.", 
+            "title": "Checkout Page"
+        }, 
+        {
+            "location": "/woocommerce/#my-account-page", 
+            "text": "You can give a title  My account  to this page and select  Full Width  template. Add  [woocommerce_my_account]  shortcode to the content area then click the  Publish  button.", 
+            "title": "My Account Page"
+        }, 
+        {
+            "location": "/woocommerce/#woocommerce-settings", 
+            "text": "You can update WooCommerce Settings from  WooCommerce   Settings  page and its tabs.      Configure Shop Page  Go to the  Products   Display  tab and select  Shop  page for  Shop page  option as displayed in the following screenshot.     Configure Cart   Checkout Pages  Go to the  Checkout   Checkout options  tab and select  Cart  and  Checkout  pages accordingly.     My Account Page  Go to the  Accounts  tab and select  My account  page for the  My account page  option.      If above guide is not enough for you to setup your shop. Then you can consult WooCommerce plugin's extensive documentation or detailed video tutorials on the following links.  Getting Started Documentation  |  Getting Started Video Tutorials", 
+            "title": "WooCommerce Settings"
+        }, 
+        {
             "location": "/customization/", 
             "text": "Modify Theme Styles\n\n\nThere are various options available to modify styles in this theme.\n\n\n\n\n\n\nGo to \nCustomzier \n Additional CSS\n and add styles there.\n\n\n\n\n\n\n\n\nIf you want to add styles in theme CSS file, it is recommended that you use child theme's \nchild-custom.css\n file. So it's safe even if you update the parent theme in future.\n\n\n\n\n\n\n\n\nIf you do not want to use child theme, then use \ncustom.css\n in parent theme.\n\n\n\n\n\n\n\n\nTranslate The Theme\n\n\nThis theme is fully translation ready. For the theme translation to your language please consult our Knowledge Base article on \nHow to translate your theme to your language\n.\n\n\nHire Customization Services\n\n\nIf you need any additional features or want to have modifications in existing theme features then you can contact our theme \ncustomization services team\n.", 
             "title": "6. Customization"
