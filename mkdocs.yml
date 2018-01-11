@@ -45,10 +45,11 @@ pages:
     - 1. Introduction: index.md
     - 2. Installation: installation.md
     - 3. Basic Setup: basic-setup.md
-    - 4. Create Pages: pages.md
-    - 5. Add Contents: posts.md
-    - 5. WooCommerce Setup: woocommerce.md
-    - 6. Customization: customization.md
+    - 4. Theme Settings: settings.md
+    - 5. Create Pages: pages.md
+    - 6. Add Contents: posts.md
+    - 7. WooCommerce Setup: woocommerce.md
+    - 8. Customization: customization.md
 
 
 
