@@ -76,9 +76,49 @@
             "title": "Configure Permalinks Settings"
         }, 
         {
+            "location": "/settings/", 
+            "text": "For theme settings you need to go to \nAppearance \n Customizer\n panel. Here is the theme options hierirchy that you can follow to reach:\n\n\nSite Identity\n\n\n\n\nSite Title\n\n\nTagline\n\n\nSite Logo\n\n\nSite Retina Logo\n\n\n\n\nHeader\n\n\n\n\nHeader Topbar\n\n\nTopbar Above Header\n\n\nTopbar Left Slot\n\n\nWelcome Note Text\n\n\nTopbar Email\n\n\nTwitter URL\n\n\nFacebook URL\n\n\nGoogle+ URL\n\n\nYouTube URL\n\n\nInstagram URL\n\n\nWooCommerce Cart Icon\n\n\n\n\n\n\nBanner\n\n\nBanner Background Image\n\n\nBread Crumbs on Banner Image\n\n\nPage Title on Banner Image\n\n\n\n\n\n\nOthers\n\n\nHeader Phone\n\n\n\n\n\n\n\n\nHome\n\n\n\n\nSection Manager\n\n\nSections Display\n\n\nSections Order\n\n\n\n\n\n\nSlider Area\n\n\nWhat to Display\n\n\nTours Search Results Page\n\n\n\n\n\n\nFeatured Packages\n\n\nTitle\n\n\nDescription\n\n\nNumber of Featured Tours\n\n\n\n\n\n\nPopular Destinations\n\n\nTitle\n\n\nDescription\n\n\nNumber of Destinations\n\n\n\n\n\n\nSpecial Offers \n\n\nTitle\n\n\nDescription\n\n\nNumber of Special Offers\n\n\n\n\n\n\nDestination By Mood \n\n\nTitle\n\n\nDescription\n\n\nBackground Image\n\n\nBackground Color\n\n\n\n\n\n\nBlog - Testimonials\n\n\nTitle\n\n\nDescription\n\n\nNumber of Blog Posts\n\n\nBlog Posts From\n\n\n\n\n\n\nTestimonials\n\n\nTitle\n\n\nDescription\n\n\nNumber of Testimonial Posts\n\n\n\n\n\n\nExplore Tours\n\n\nTitle\n\n\nDescription\n\n\nButton Text\n\n\nButton URL\n\n\nBackground Image\n\n\n\n\n\n\n\n\nTour Detail Page\n\n\n\n\nBooking Form in Sidebar\n\n\nBooking Form Cover Photo\n\n\nBooking Form Title\n\n\nBooking Form Email\n\n\nSimilar Tours\n\n\nSimilar Tours Title\n\n\nSimilar Tours Description\n\n\n\n\nMisc\n\n\n\n\nSite Preloading Screen\n\n\nScreen Style\n\n\nScreen Background Color\n\n\nGoogle Maps API Key\n\n\n\n\nShop\n\n\n(Shop setting will be displayed only if WooCommerce plugin is activated)\n\n\n\n\nBanner Background Image\n\n\nShop Banner Title\n\n\nShop's Products Per Page\n\n\n\n\nFooter\n\n\n\n\nBottom Socket\n\n\nCopyright Text\n\n\nAccepted Payment Methods", 
+            "title": "4. Theme Settings"
+        }, 
+        {
+            "location": "/settings/#site-identity", 
+            "text": "Site Title  Tagline  Site Logo  Site Retina Logo", 
+            "title": "Site Identity"
+        }, 
+        {
+            "location": "/settings/#header", 
+            "text": "Header Topbar  Topbar Above Header  Topbar Left Slot  Welcome Note Text  Topbar Email  Twitter URL  Facebook URL  Google+ URL  YouTube URL  Instagram URL  WooCommerce Cart Icon    Banner  Banner Background Image  Bread Crumbs on Banner Image  Page Title on Banner Image    Others  Header Phone", 
+            "title": "Header"
+        }, 
+        {
+            "location": "/settings/#home", 
+            "text": "Section Manager  Sections Display  Sections Order    Slider Area  What to Display  Tours Search Results Page    Featured Packages  Title  Description  Number of Featured Tours    Popular Destinations  Title  Description  Number of Destinations    Special Offers   Title  Description  Number of Special Offers    Destination By Mood   Title  Description  Background Image  Background Color    Blog - Testimonials  Title  Description  Number of Blog Posts  Blog Posts From    Testimonials  Title  Description  Number of Testimonial Posts    Explore Tours  Title  Description  Button Text  Button URL  Background Image", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/settings/#tour-detail-page", 
+            "text": "Booking Form in Sidebar  Booking Form Cover Photo  Booking Form Title  Booking Form Email  Similar Tours  Similar Tours Title  Similar Tours Description", 
+            "title": "Tour Detail Page"
+        }, 
+        {
+            "location": "/settings/#misc", 
+            "text": "Site Preloading Screen  Screen Style  Screen Background Color  Google Maps API Key", 
+            "title": "Misc"
+        }, 
+        {
+            "location": "/settings/#shop", 
+            "text": "(Shop setting will be displayed only if WooCommerce plugin is activated)   Banner Background Image  Shop Banner Title  Shop's Products Per Page", 
+            "title": "Shop"
+        }, 
+        {
+            "location": "/settings/#footer", 
+            "text": "Bottom Socket  Copyright Text  Accepted Payment Methods", 
+            "title": "Footer"
+        }, 
+        {
             "location": "/pages/", 
             "text": "If you have imported the \nDemo Contents\n already then initial pages are already created and you do not need to create them again.\n\n\n\n\nYou can create a new page from \nPages \n Add New\n page.\n\n\nYou can see a Banner Configuration metabox area for every page where you can set a banner image and a custom title to display on it as you can see in the screenshot given below.\n\n\n\n\nHome Page\n\n\nYou can give a title \nHome\n to this page and select \nHome\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nFeatures List on Homepage\n metabox where you can add homepage features list. See the following image.\n\n\n\n\nBlog Page\n\n\nYou can give a title \nBlog/News\n to this page and select \nDefault Template\n template then click the \nPublish\n button.\n\n\n\n\nAfter that consult \nBasic Setup \n Configure Read Settings\n of this documentation to configure it as Posts Page.\n\n\nTours Page\n\n\nYou can give a title \nTours\n to this page and select a template from four \nTours List\n, \nTours Grid\n, \nTours Grid FullWidth\n and \nTours Gallery\n available templates according to your needs then click the \nPublish\n button.\n\n\n\n\nContact Page\n\n\nYou can give a title \nContact\n to this page and select \nContact\n template then click the \nPublish\n button.\n\n\n\n\nYou will also see a \nContact Information\n metabox with multiple tabs where you can configure the whole contact page settings as displayed in the following screenshot.\n\n\n\n\nFAQs Page\n\n\n\n\nMake sure the \nQuick and Easy FAQs\n plugin is already installed and activated on your site according to the \nInstall Plugins\n section.\n\n\n\n\nYou can give a title \nFAQs\n to this page and select \nDefault Template\n or \nFullWidth\n template. Use a FAQs listing \nshortcode\n to list FAQs then click the \nPublish\n button as displayed in the following screenshot.\n\n\n\n\nYou can see the details and all available shortcodes on the \nQuick and EASY FAQs\n plugin's \ndetail page\n.", 
-            "title": "4. Create Pages"
+            "title": "5. Create Pages"
         }, 
         {
             "location": "/pages/#home-page", 
@@ -108,7 +148,7 @@
         {
             "location": "/posts/", 
             "text": "Add Blog Posts\n\n\nYou can create a new post from \nPosts \n Add New\n page.\n\n\nAdd the post title, content, categories, tags and set a featured image \n(recommended size 750x300)\n then click the \nPublish\n button. As, you can see in the following screenshots.\n\n\n\n\n\n\nYou can see a \nBanner Configuration\n metabox area for every post where you can set a banner image and a custom title to display on it as displayed in the screenshot given below.\n\n\n\n\nAdd Testimonials\n\n\nYou add the testimonial from \nTestimonials \n Add New\n page.\n\n\nAdd the testimonial author name, testimonial text and set the author photo (recommended size 150x150) then click the \nPublish\n button. As, you can see in the following screenshots.\n\n\n\n\nYou can see a \nTestimonial Details\n metabox area for every testimonial post where you can add the author designation and set a rating out of 5 as displayed in the screenshot given below.\n\n\n\n\nAdd Tours\n\n\nYou add the tours from \nEasy Tours \n Add New\n page.\n\n\nAdd the tour name, tour content, destinations, types, months and set the tour featured image (recommended size 530x410) then click the \nPublish\n button. As, you can see in the following screenshots.\n\n\n\n\n\n\nYou can see a \nTour Details\n metabox area with multiple vertical tabs for every tour post where you can add the tour's price, location, gallery images and other important details as you can see in the screenshot given below.", 
-            "title": "5. Add Contents"
+            "title": "6. Add Contents"
         }, 
         {
             "location": "/posts/#add-blog-posts", 
@@ -128,7 +168,7 @@
         {
             "location": "/woocommerce/", 
             "text": "To setup WooCommerce Shop, you need to install \nWooCommerce\n plugin on your site.\n\n\nInstalling WooCommerce Plugin\n\n\nGo to the \nAppearance \n Plugins \n Add New\n page and search for the \nWooCommerce\n as guided in the following screenshot.\n\n\n\n\nClick on \nInstall Now\n button and then \nActivate\n the plugin.\n\n\nWooCommerce Store Setup\n\n\nOnce you clicked the plugin \nActivate\n button it will take you to the WooCommerce Store Setup page, where you can complete your store setup in steps. See this helping screenshot.\n\n\n\n\nImport Products \n Shop Pages\n\n\nAfter WooCommerce Store Setup completion you can import your Products from your older site via CSV file by clicking on the \nImport products\n button.\n\n\n\n\nOnce you clicked the \nImport products\n button, it will redirect you to the products import page.\n\n\n\n\nCreate Shop Pages\n\n\n\n\nIf you have followed above store setup procedure or you have imported the Shop pages with Products already then you do not need to create them again.\n\n\n\n\nShop Page\n\n\nYou can give a title \nShop\n to this page and select \nDefault Template\n then click the \nPublish\n button.\n\n\n\n\nCart Page\n\n\nYou can give a title \nCart\n to this page and select \nFull Width\n template. Add \n[woocommerce_cart]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nCheckout Page\n\n\nYou can give a title \nCheckout\n to this page and select \nFull Width\n template. Add \n[woocommerce_checkout]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nMy Account Page\n\n\nYou can give a title \nMy account\n to this page and select \nFull Width\n template. Add \n[woocommerce_my_account]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nWooCommerce Settings\n\n\nYou can update WooCommerce Settings from \nWooCommerce \n Settings\n page and its tabs. \n\n\n\n\n\n\n\n\nConfigure Shop Page\n\n\nGo to the \nProducts \n Display\n tab and select \nShop\n page for \nShop page\n option as displayed in the following screenshot.\n\n\n\n\n\n\n\n\nConfigure Cart \n Checkout Pages\n\n\nGo to the \nCheckout \n Checkout options\n tab and select \nCart\n and \nCheckout\n pages accordingly.\n\n\n\n\n\n\n\n\nMy Account Page\n\n\nGo to the \nAccounts\n tab and select \nMy account\n page for the \nMy account page\n option.\n\n\n\n\n\n\n\n\n\n\nIf above guide is not enough for you to setup your shop. Then you can consult WooCommerce plugin's extensive documentation or detailed video tutorials on the following links.\n\n\nGetting Started Documentation\n | \n\nGetting Started Video Tutorials", 
-            "title": "5. WooCommerce Setup"
+            "title": "7. WooCommerce Setup"
         }, 
         {
             "location": "/woocommerce/#installing-woocommerce-plugin", 
@@ -178,7 +218,7 @@
         {
             "location": "/customization/", 
             "text": "Modify Theme Styles\n\n\nThere are various options available to modify styles in this theme.\n\n\n\n\n\n\nGo to \nCustomzier \n Additional CSS\n and add styles there.\n\n\n\n\n\n\n\n\nIf you want to add styles in theme CSS file, it is recommended that you use child theme's \nchild-custom.css\n file. So it's safe even if you update the parent theme in future.\n\n\n\n\n\n\n\n\nIf you do not want to use child theme, then use \ncustom.css\n in parent theme.\n\n\n\n\n\n\n\n\nTranslate The Theme\n\n\nThis theme is fully translation ready. For the theme translation to your language please consult our Knowledge Base article on \nHow to translate your theme to your language\n.\n\n\nHire Customization Services\n\n\nIf you need any additional features or want to have modifications in existing theme features then you can contact our theme \ncustomization services team\n.", 
-            "title": "6. Customization"
+            "title": "8. Customization"
         }, 
         {
             "location": "/customization/#modify-theme-styles", 
