@@ -49,6 +49,6 @@ After you have installed and activated the theme, there'll be a list of **requir
     ![img](img/06-install.png)
     
 3. Click Return to **Required Plugins Installer** when plugins installation is completed.
-4. Activate the Installed Plugins.
+4. **Activate** the Installed Plugins.
 
     ![img](img/07-install.png)
