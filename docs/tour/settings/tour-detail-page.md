@@ -1,6 +1,6 @@
 ## **Booking Form in Sidebar**
 
-You can choose booking from in sidebar option from **Dashboard > Customize > Tour Detail Page** as shown below.
+You can choose booking form in sidebar option from **Dashboard > Customize > Tour Detail Page** as shown below.
 
 ![img](../../img/tour-form-sidebar.png)
 
@@ -10,7 +10,7 @@ It will look like the below image on front-end
 
 ## **Tour Reviews**
 
-You can choose booking from in sidebar option from **Dashboard > Customize > Tour Detail Page** as shown below.
+You can add tour reviews details from **Dashboard > Customize > Tour Detail Page** as shown below.
 
 ![img](../../img/tour-reviews.png)
 
@@ -20,7 +20,7 @@ It will look like the below image on front-end
 
 ## **Similar Tours**
 
-You can choose booking from in sidebar option from **Dashboard > Customize > Tour Detail Page** as shown below.
+You can add similar tours details from **Dashboard > Customize > Tour Detail Page** as shown below.
 
 ![img](../../img/similar-tours.png)
 
