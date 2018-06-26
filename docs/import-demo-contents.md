@@ -58,13 +58,13 @@ After that is done, you will have bunch of posts, pages, tour post and other con
 
 ### **Step 4**
 
-Navigate to ***Dashboard > Appearance > Menus*** and use the Already Imported Menu from XML and assign it to theme location "Header Menu" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.
+Navigate to **Dashboard > Appearance > Menus** and use the Already Imported Menu from XML and assign it to theme location "Header Menu" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.
 
 ![img](img/header-menu.png)
 
 ### **Step 5**
 
-To configure reading settings you need to visit ***Dashboard > Settings > Reading*** and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).
+To configure reading settings you need to visit **Dashboard > Settings > Reading** and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).
 
 ![img](img/install-09.png)
 
@@ -72,7 +72,7 @@ To configure reading settings you need to visit ***Dashboard > Settings > Readin
 
 To import Customizer settings you have to install [ Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/).
 
-Once the plugin is installed and activate then navigate to ***Dashboard > Customize > Export/Import*** and then select the customizer.dat file.
+Once the plugin is installed and activate then navigate to **Dashboard > Customize > Export/Import** and then select the customizer.dat file.
 
 ![img](img/import-customizer-settings.png)
 
@@ -83,7 +83,7 @@ Upon successful import the Customizer will be refreshed.
 Now you can import widgets too. In order to do that, kindly install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/).
 
 
-After successful installation and activation navigate to ***Dashboard > Tools > Widget Importer & Exporter*** and then select the widgets.wie file.
+After successful installation and activation navigate to **Dashboard > Tools > Widget Importer & Exporter** and then select the widgets.wie file.
 
 ![img](img/import-widget-settings.png)
 

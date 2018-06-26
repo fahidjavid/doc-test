@@ -44,14 +44,27 @@ extra_css:
   - 'stylesheets/style.css'
 
 pages:
-    - 1. Introduction: index.md
-    - 2. Installation: installation.md
-    - 3. Import Demo Contents: import-demo-contents.md
-    - 4. Theme Settings: settings.md
-    - 5. Create Pages: pages.md
-    - 6. Add Contents: posts.md
-    - 7. WooCommerce Setup: woocommerce.md
-    - 8. Customization: customization.md
+    - Introduction: index.md
+    - Installation: installation.md
+    - Import Demo Contents: import-demo-contents.md
+    - Home Page:
+      - Creating and Configuring Page: home/create-page.md
+      - Home Page Settings:
+        - Sections Manager: home/settings/sections-manager.md
+        - Slider Area: home/settings/slider-area.md
+        - Features: home/settings/features.md
+        - Featured Packages: home/settings/featured-packages.md
+        - Popular Destinations: home/settings/popular-destinations.md
+        - Special Offers: home/settings/special-offers.md
+        - Destination By Mood: home/settings/destination-by-mood.md
+        - Blog Posts: home/settings/recent-from-blog.md
+        - Testimonials: home/settings/testimonials.md
+        - Explore Tours: home/settings/explore-tours.md
+    - Theme Settings: settings.md
+    - Create Pages: pages.md
+    - Add Contents: posts.md
+    - WooCommerce Setup: woocommerce.md
+    - Customization: customization.md
 
 
 
