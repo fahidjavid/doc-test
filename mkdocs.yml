@@ -65,6 +65,8 @@ pages:
       - Tours Settings:
         - Tours Listing Configuration: tour/settings/number-of-posts.md
         - Tours Detils Page: tour/settings/tour-detail-page.md
+        - Tours Price Format: tour/settings/price-format.md
+        - Tours Slugs: tour/settings/tour-slugs.md
       - Add Tour: tour/add-tour.md
     - Other Pages: pages.md
     - Other Posts: posts.md
