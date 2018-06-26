@@ -61,7 +61,7 @@ pages:
         - Testimonials: home/settings/testimonials.md
         - Explore Tours: home/settings/explore-tours.md
     - Theme Settings: settings.md
-    - Create Pages: pages.md
+    - Other Pages: pages.md
     - Add Contents: posts.md
     - WooCommerce Setup: woocommerce.md
     - Customization: customization.md
