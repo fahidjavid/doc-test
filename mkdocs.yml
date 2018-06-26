@@ -60,12 +60,17 @@ pages:
         - Blog Posts: home/settings/recent-from-blog.md
         - Testimonials: home/settings/testimonials.md
         - Explore Tours: home/settings/explore-tours.md
+    - Easy Tours:
+      - Create Tour Page: tour/create-tour-page.md
+      - Tours Settings:
+        - Tours Listing Configuration: tour/settings/number-of-posts.md
+        - Tours Detils Page: tour/settings/tour-detail-page.md
+      - Add Tour: tour/add-tour.md
     - Theme Settings: settings.md
     - Other Pages: pages.md
     - Add Contents: posts.md
     - WooCommerce Setup: woocommerce.md
     - Customization: customization.md
-
 
 
 markdown_extensions:

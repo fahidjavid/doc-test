@@ -14,11 +14,6 @@ You can give a title **Blog/News** to this page and select **Default Template** 
 
 After that consult [Basic Setup > Configure Read Settings](basic-setup.md#configure-reading-settings) of this documentation to configure it as Posts Page.
 
-## Tours Page
-You can give a title **Tours** to this page and select a template from four **Tours List**, **Tours Grid**, **Tours Grid FullWidth** and **Tours Gallery** available templates according to your needs then click the **Publish** button.
-
-![img](img/page-05.png)
-
 ## Contact Page
 You can give a title **Contact** to this page and select **Contact** template then click the **Publish** button.
 
