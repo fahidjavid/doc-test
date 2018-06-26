@@ -20,7 +20,7 @@ repo_url: 'https://github.com/fahidjavid/tp-doc'
 copyright: 'Copyright &copy; 2018 InspiryThemes'
 
 theme: 'material'
-theme_dir: 'mkdocs-material/material'
+# theme_dir: 'mkdocs-material/material'
 
 #use_directory_urls: false // to build direct links
 
