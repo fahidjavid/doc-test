@@ -20,6 +20,6 @@ It is highly recommended to use the child theme so that you can easily update pa
 * Theme installation services.
 
 ## Updating WordPress Theme
-If you want to update your theme then you can consult [this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/) OR you can consult [this knowledge base article](https://support.inspirythemes.com/knowledgebase/update-theme-manually/) to safely update TourPress Theme.
+If you want to update your theme then you can consult [this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-automatically/) OR you can consult [this knowledge base article](https://support.inspirythemes.com/knowledgebase/update-theme-manually/) to safely update TourPress Theme.
 
 **If you like this theme, Please support us by rating this theme with 5 stars ([How to rate?](img/how-to-rate-theme.png))**
