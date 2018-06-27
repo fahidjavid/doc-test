@@ -24,9 +24,9 @@ Add tour offers and features which are included or not.
 
 ![img](../img/tour-offer-included.png)
 
-### **Tour Roadway**
+### **Tour Itinerary**
 
-Add tour roadway, visits and places.
+Add tour Itinerary, visits and places.
 
 ![img](../img/tour-roadway.png)
 
@@ -34,11 +34,17 @@ Add tour roadway, visits and places.
 
 Provide property gallery images.
 
+!!! warning ""
+    The recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.
+
 ![img](../img/tour-gallery.png)
 
-### **Tour For Slider**
+### **Add Tour To Homepage Slider**
 
-If you want to choose this tour for slider then have ro provide the details shown in below screenshot
+If you want to add tour to homepage slider then you have to provide the details shown in below screenshot
+
+!!! warning ""
+    The recommended image size is 2000px by 750px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.
 
 ![img](../img/tour-slider.png)
 
