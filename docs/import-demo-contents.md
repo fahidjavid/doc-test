@@ -16,11 +16,6 @@ Go to **Appearance > Import Demo Data** Click on **Import Demo Data** button, wa
     
 You can deactivate and delete **One Click Demo Import** plugin from **Plugins** page when import demo data is completed.
 
-### **Step 3**
-Once the import process is complete, You will receive a notice like the one displayed in the screen shot below.
-
-![img](img/all-done.png)
-
 Visit your site and you will find your site working like the theme demo. In case of any problem, Get in touch with our support team using our support site.
 
 ##2. Import XML Contents and Configure Settings Manually
