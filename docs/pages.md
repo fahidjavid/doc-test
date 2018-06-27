@@ -12,8 +12,6 @@ You can give a title **Blog/News** to this page and select **Default Template** 
 
 ![img](img/page-04.png)
 
-After that consult [Basic Setup > Configure Read Settings](basic-setup.md#configure-reading-settings) of this documentation to configure it as Posts Page.
-
 ## Contact Page
 You can give a title **Contact** to this page and select **Contact** template then click the **Publish** button.
 
