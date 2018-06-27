@@ -10,3 +10,7 @@ Select the **Home** template from the **Page Attributes** section, as displayed 
 To configure reading settings you need to visit **Dashboard > Settings > Reading** and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).
 
 ![img](../img/install-09.png)
+
+After publishing you need to add the newly created page in menu from **Dashboard > Appearance > Menus**
+
+![img](../img/home-page-menu.png)
