@@ -9,12 +9,12 @@
 # Branding
 site_name: TourPress WordPress Theme
 site_description: 'Documentation for TourPress WordPress theme.'
-site_author: 'Fahid Javid'
-site_url: 'https://fahidjavid.github.io/tp-doc'
+site_author: 'Inspiry Themes'
+site_url: 'https://inspirythemes.github.io/tp-doc/'
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/fahidjavid/tp-doc'
+repo_url: 'https://github.com/InspiryThemes/tp-doc'
 
 # Copyright
 copyright: 'Copyright &copy; 2018 InspiryThemes'
