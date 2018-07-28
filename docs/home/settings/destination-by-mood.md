@@ -4,9 +4,9 @@ If you want to display **Destination By Mood** on homepage then navigate to **Da
 
 ![img](../../img/destination-by-mood.png)
 
-These tours are coming from **Easy Tour Posts**. You can select any tour for featured section as shown below
+These tours are coming from **Easy Tour Type**. You can add tour type detail as shown below
 
-![img](../../img/abc.png)
+![img](../../img/tour-types-tax.png)
 
 It will look like the below image on home page front-end
 
