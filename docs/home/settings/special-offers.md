@@ -4,9 +4,9 @@ If you want to display **Special Offers** on homepage then navigate to **Dashboa
 
 ![img](../../img/special-offers.png)
 
-These tours are coming from **Easy Tour Posts**. You can select any tour for special offers as shown below
+These tours are coming from **Easy Tour Posts**. Please add **Discounted Price** to add the tour in special offers category as shown below
 
-![img](../../img/abc.png)
+![img](../../img/special-offers-tour.png)
 
 It will look like the below image on home page front-end
 
