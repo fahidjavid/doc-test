@@ -1,6 +1,6 @@
 ## **Slider Area Settings**
 
-If you want to display **Slider** or **Banner** on homepage then navigate to **Dashboard > Customize > Home > Slider Area**. You can choose slider or banner option from drop down as shown below.
+If you want to display **Slider** or **Banner** on homepage then navigate to **Dashboard > Customize > Home > Slider Area**. You can choose **slider** or **banner** option, **Number of slides to display** and show/hide **Search form under slider** as shown below.
 
 ![img](../../img/homepage-slider-choose.png)
 
