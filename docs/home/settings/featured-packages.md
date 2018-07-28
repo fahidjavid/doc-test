@@ -6,7 +6,7 @@ If you want to display **Featured Tours** on homepage then navigate to **Dashboa
 
 These tours are coming from **Easy Tour Posts**. You can select any tour for featured section as shown below
 
-![img](../../img/abc.png)
+![img](../../img/featured-tour.png)
 
 It will look like the below image on home page front-end
 
