@@ -52,3 +52,8 @@ After you have installed and activated the theme, there'll be a list of **requir
 4. **Activate** the Installed Plugins.
 
     ![img](img/07-install.png)
+    
+!!! warning ""
+    It is important to skip **WooCommerce wizard** in order to work with **One Click Demo** properly.
+    
+ ![img](img/09-install.png)
