@@ -67,6 +67,7 @@ pages:
         - Tours Detils Page: tour/settings/tour-detail-page.md
         - Tours Price Format: tour/settings/price-format.md
         - Tours Slugs: tour/settings/tour-slugs.md
+        - Tours Google Map API: tour/settings/tour-google-map-api.md
     - Other Pages: pages.md
     - Other Posts: posts.md
     - Widgets:

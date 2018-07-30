@@ -4,9 +4,9 @@ If you want to display **Popular Destinations** on homepage then navigate to **D
 
 ![img](../../img/homepage-popular-destinations.png)
 
-These tours are coming from **Easy Tour Posts**. You can select any tour for popular destination as shown below
+These Destinations are coming from Easy Tour **Destinations Taxonomy**. You can configure destinations as shown below
 
-![img](../../img/abc.png)
+![img](../../img/popular-destinations-setting.png)
 
 It will look like the below image on home page front-end
 
