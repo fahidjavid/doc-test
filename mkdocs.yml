@@ -64,9 +64,6 @@ pages:
       - Add New Tour: tour/add-tour.md
       - Create Tours Page: tour/create-tours-page.md
       - Tours Detils Page: tour/settings/tour-detail-page.md
-      - Tours Price Format: tour/settings/price-format.md
-      - Tours Slugs: tour/settings/tour-slugs.md
-      - Tours Google Map API: tour/settings/tour-google-map-api.md
     - Other Pages: pages.md
     - Other Posts: posts.md
     - Widgets:
@@ -76,6 +73,9 @@ pages:
       - Social Share: widgets/soical-share.md
       - Tours Widget: widgets/tours.md
       - Tours Search: widgets/tours-search.md
+    - Price Format Settings: tour/settings/price-format.md
+    - Tour Slugs Settings: tour/settings/tour-slugs.md
+    - Google Maps API: tour/settings/tour-google-map-api.md
     - WooCommerce Setup: woocommerce.md
     - Customization: customization.md
 
