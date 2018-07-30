@@ -42,7 +42,7 @@
         },
         {
             "location": "/installation/",
-            "text": "Installing Theme\n\u00b6\n\n\nTo start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex \nInstalling WordPress\n.\n\n\nOnce you have a working version of WordPress, You need to download \nAll Files and Documentation\n from themeforest \ndownload page\n and extract the downloaded zip and look for the \ninspiry-tourpress.zip\n.\n\n\nInstalling Theme Via WordPress Dashboard\n\u00b6\n\n\n\n\nGo to \nAppearance > Themes\n section\n\n\n\n\nClick \nAdd New\n\n\n\n\n\n\n\n\nSelect the \nUpload Theme\n option\n\n\n\n\n\n\n\n\nChoose the \ninspiry-tourpress.zip\n file and press \nInstall Now\n\n\n\n\n\n\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\n\n\nAfter Activation of theme. Next Step is Plugins Installation\n\n\n\n\n\n\n\n\nif you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\nInstall Theme Via FTP ( Alternative Way )\n\u00b6\n\n\n\n\nAccess your hosting server using an ftp client like \nFileZilla\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation\n\n\nExtract the \ninspiry-tourpress.zip\n file and put the \ninspiry-tourpress\n folder in \nwp-content/themes/\n folder\n\n\nGo to \nWordPress Dashboard > Appearance > Themes\n page to activate the theme\n\n\n\n\nInstall Child Theme\n\u00b6\n\n\nIt is better to use child theme as if you need to modify anything you modify in child theme only. This way you can easily update your parent theme whenever new update becomes available on themeforest. You can read more about child theme by \nclicking here\n.\n\n\nTo install child theme, you need to upload the \ninspiry-tourpress-child.zip\n and activate it in the same way as you uploaded and activated the parent theme's \ninspiry-tourpress.zip\n.\n\n\nInstall Plugins\n\u00b6\n\n\nAfter you have installed and activated the theme, there'll be a list of \nrequired\n and \nrecommended\n plugins at the top of the WordPress dashboard.\n\n\n\n\n\n\nClick on \nBegin Installing Plugins\n\n\n\n\n\n\n\n\nInstall \nrequired\n and \nrecommended\n plugins\n\n\n\n\n\n\n\n\nClick Return to \nRequired Plugins Installer\n when plugins installation is completed.\n\n\n\n\n\n\nActivate\n the Installed Plugins.",
+            "text": "Installing Theme\n\u00b6\n\n\nTo start you must have a working version of WordPress. Almost all major web hosts provides one click WordPress install and you can consult your host's help site for more information in this regard. For manual install you can consult WordPress Codex \nInstalling WordPress\n.\n\n\nOnce you have a working version of WordPress, You need to download \nAll Files and Documentation\n from themeforest \ndownload page\n and extract the downloaded zip and look for the \ninspiry-tourpress.zip\n.\n\n\nInstalling Theme Via WordPress Dashboard\n\u00b6\n\n\n\n\nGo to \nAppearance > Themes\n section\n\n\n\n\nClick \nAdd New\n\n\n\n\n\n\n\n\nSelect the \nUpload Theme\n option\n\n\n\n\n\n\n\n\nChoose the \ninspiry-tourpress.zip\n file and press \nInstall Now\n\n\n\n\n\n\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\n\n\nAfter Activation of theme. Next Step is Plugins Installation\n\n\n\n\n\n\n\n\nif you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\nInstall Theme Via FTP ( Alternative Way )\n\u00b6\n\n\n\n\nAccess your hosting server using an ftp client like \nFileZilla\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation\n\n\nExtract the \ninspiry-tourpress.zip\n file and put the \ninspiry-tourpress\n folder in \nwp-content/themes/\n folder\n\n\nGo to \nWordPress Dashboard > Appearance > Themes\n page to activate the theme\n\n\n\n\nInstall Child Theme\n\u00b6\n\n\nIt is better to use child theme as if you need to modify anything you modify in child theme only. This way you can easily update your parent theme whenever new update becomes available on themeforest. You can read more about child theme by \nclicking here\n.\n\n\nTo install child theme, you need to upload the \ninspiry-tourpress-child.zip\n and activate it in the same way as you uploaded and activated the parent theme's \ninspiry-tourpress.zip\n.\n\n\nInstall Plugins\n\u00b6\n\n\nAfter you have installed and activated the theme, there'll be a list of \nrequired\n and \nrecommended\n plugins at the top of the WordPress dashboard.\n\n\n\n\n\n\nClick on \nBegin Installing Plugins\n\n\n\n\n\n\n\n\nInstall \nrequired\n and \nrecommended\n plugins\n\n\n\n\n\n\n\n\nClick Return to \nRequired Plugins Installer\n when plugins installation is completed.\n\n\n\n\n\n\nActivate\n the Installed Plugins.\n\n\n\n\n\n\n\n\n\n\nIt is important to skip \nWooCommerce wizard\n in order to work with \nOne Click Demo\n properly.",
             "title": "Installation"
         },
         {
@@ -67,7 +67,7 @@
         },
         {
             "location": "/installation/#install-plugins",
-            "text": "After you have installed and activated the theme, there'll be a list of  required  and  recommended  plugins at the top of the WordPress dashboard.    Click on  Begin Installing Plugins     Install  required  and  recommended  plugins     Click Return to  Required Plugins Installer  when plugins installation is completed.    Activate  the Installed Plugins.",
+            "text": "After you have installed and activated the theme, there'll be a list of  required  and  recommended  plugins at the top of the WordPress dashboard.    Click on  Begin Installing Plugins     Install  required  and  recommended  plugins     Click Return to  Required Plugins Installer  when plugins installation is completed.    Activate  the Installed Plugins.      It is important to skip  WooCommerce wizard  in order to work with  One Click Demo  properly.",
             "title": "Install Plugins"
         },
         {
@@ -152,12 +152,12 @@
         },
         {
             "location": "/home/settings/slider-area/",
-            "text": "Slider Area Settings\n\u00b6\n\n\nIf you want to display \nSlider\n or \nBanner\n on homepage then navigate to \nDashboard > Customize > Home > Slider Area\n. You can choose slider or banner option from drop down as shown below.\n\n\n\n\nThese slides are coming from \nEasy Tour Posts\n. You can select any tour for slider as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
+            "text": "Slider Area Settings\n\u00b6\n\n\nIf you want to display \nSlider\n or \nBanner\n on homepage then navigate to \nDashboard > Customize > Home > Slider Area\n. You can choose \nslider\n or \nbanner\n option, \nNumber of slides to display\n and show/hide \nSearch form under slider\n as shown below.\n\n\n\n\nThese slides are coming from \nEasy Tour Posts\n. You can select any tour for slider as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
             "title": "Slider Area"
         },
         {
             "location": "/home/settings/slider-area/#slider-area-settings",
-            "text": "If you want to display  Slider  or  Banner  on homepage then navigate to  Dashboard > Customize > Home > Slider Area . You can choose slider or banner option from drop down as shown below.   These slides are coming from  Easy Tour Posts . You can select any tour for slider as shown below   It will look like the below image on home page front-end",
+            "text": "If you want to display  Slider  or  Banner  on homepage then navigate to  Dashboard > Customize > Home > Slider Area . You can choose  slider  or  banner  option,  Number of slides to display  and show/hide  Search form under slider  as shown below.   These slides are coming from  Easy Tour Posts . You can select any tour for slider as shown below   It will look like the below image on home page front-end",
             "title": "Slider Area Settings"
         },
         {
@@ -182,32 +182,32 @@
         },
         {
             "location": "/home/settings/popular-destinations/",
-            "text": "Popular Destinations Settings\n\u00b6\n\n\nIf you want to display \nPopular Destinations\n on homepage then navigate to \nDashboard > Customize > Home > Popular Destinations\n. You can choose title description and number of Popular Destinations as shown below.\n\n\n\n\nThese tours are coming from \nEasy Tour Posts\n. You can select any tour for popular destination as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
+            "text": "Popular Destinations Settings\n\u00b6\n\n\nIf you want to display \nPopular Destinations\n on homepage then navigate to \nDashboard > Customize > Home > Popular Destinations\n. You can choose title description and number of Popular Destinations as shown below.\n\n\n\n\nThese Destinations are coming from Easy Tour \nDestinations Taxonomy\n. You can configure destinations as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
             "title": "Popular Destinations"
         },
         {
             "location": "/home/settings/popular-destinations/#popular-destinations-settings",
-            "text": "If you want to display  Popular Destinations  on homepage then navigate to  Dashboard > Customize > Home > Popular Destinations . You can choose title description and number of Popular Destinations as shown below.   These tours are coming from  Easy Tour Posts . You can select any tour for popular destination as shown below   It will look like the below image on home page front-end",
+            "text": "If you want to display  Popular Destinations  on homepage then navigate to  Dashboard > Customize > Home > Popular Destinations . You can choose title description and number of Popular Destinations as shown below.   These Destinations are coming from Easy Tour  Destinations Taxonomy . You can configure destinations as shown below   It will look like the below image on home page front-end",
             "title": "Popular Destinations Settings"
         },
         {
             "location": "/home/settings/special-offers/",
-            "text": "Special Offers Settings\n\u00b6\n\n\nIf you want to display \nSpecial Offers\n on homepage then navigate to \nDashboard > Customize > Home > Special Offers\n. You can choose title description and number of Special Offers as shown below.\n\n\n\n\nThese tours are coming from \nEasy Tour Posts\n. You can select any tour for special offers as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
+            "text": "Special Offers Settings\n\u00b6\n\n\nIf you want to display \nSpecial Offers\n on homepage then navigate to \nDashboard > Customize > Home > Special Offers\n. You can choose title description and number of Special Offers as shown below.\n\n\n\n\nThese tours are coming from \nEasy Tour Posts\n. Please add \nDiscounted Price\n to add the tour in special offers category as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
             "title": "Special Offers"
         },
         {
             "location": "/home/settings/special-offers/#special-offers-settings",
-            "text": "If you want to display  Special Offers  on homepage then navigate to  Dashboard > Customize > Home > Special Offers . You can choose title description and number of Special Offers as shown below.   These tours are coming from  Easy Tour Posts . You can select any tour for special offers as shown below   It will look like the below image on home page front-end",
+            "text": "If you want to display  Special Offers  on homepage then navigate to  Dashboard > Customize > Home > Special Offers . You can choose title description and number of Special Offers as shown below.   These tours are coming from  Easy Tour Posts . Please add  Discounted Price  to add the tour in special offers category as shown below   It will look like the below image on home page front-end",
             "title": "Special Offers Settings"
         },
         {
             "location": "/home/settings/destination-by-mood/",
-            "text": "Destination By Mood Settings\n\u00b6\n\n\nIf you want to display \nDestination By Mood\n on homepage then navigate to \nDashboard > Customize > Home > Destination By Mood\n. You can choose title, description, background image and background color of destination by mood as shown below.\n\n\n\n\nThese tours are coming from \nEasy Tour Posts\n. You can select any tour for featured section as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
+            "text": "Destination By Mood Settings\n\u00b6\n\n\nIf you want to display \nDestination By Mood\n on homepage then navigate to \nDashboard > Customize > Home > Destination By Mood\n. You can choose title, description, background image and background color of destination by mood as shown below.\n\n\n\n\nThese tours are coming from \nEasy Tour Type\n. You can add tour type detail as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
             "title": "Destination By Mood"
         },
         {
             "location": "/home/settings/destination-by-mood/#destination-by-mood-settings",
-            "text": "If you want to display  Destination By Mood  on homepage then navigate to  Dashboard > Customize > Home > Destination By Mood . You can choose title, description, background image and background color of destination by mood as shown below.   These tours are coming from  Easy Tour Posts . You can select any tour for featured section as shown below   It will look like the below image on home page front-end",
+            "text": "If you want to display  Destination By Mood  on homepage then navigate to  Dashboard > Customize > Home > Destination By Mood . You can choose title, description, background image and background color of destination by mood as shown below.   These tours are coming from  Easy Tour Type . You can add tour type detail as shown below   It will look like the below image on home page front-end",
             "title": "Destination By Mood Settings"
         },
         {
@@ -339,6 +339,11 @@
             "location": "/tour/settings/tour-slugs/",
             "text": "If you want to set the Slugs of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nURL Slugs\n tab as shown below",
             "title": "Tours Slugs"
+        },
+        {
+            "location": "/tour/settings/tour-google-map-api/",
+            "text": "If you want to Google Maps API of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nOthers\n tab as shown below",
+            "title": "Tours Google Map API"
         },
         {
             "location": "/pages/",
