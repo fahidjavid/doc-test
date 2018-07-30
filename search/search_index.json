@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "TourPress WordPress Theme\n\u00b6\n\n\n\n\nThis documentation is last updated on 27\nth\n June 2018\n\n\n\n\nIntroduction\n\u00b6\n\n\nThanks for purchasing TourPress WordPress Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our \nsupport website\n. You can visit \nthis knowledge base article\n to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\u00b6\n\u00b6\n\n\nIt is highly recommended to use the child theme so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.\n\n\nSupport Policy\n\u00b6\n\n\nSupport Includes\n\u00b6\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\u00b6\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.\n\n\n\n\nUpdating WordPress Theme\n\u00b6\n\n\nIf you want to update your theme then you can consult \nthis knowledge base article for automatic update\n OR you can consult \nthis knowledge base article\n to safely update TourPress Theme.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)",
+            "text": "TourPress WordPress Theme\n\u00b6\n\n\n\n\nThis documentation is last updated on 31th July 2018\n\n\n\n\nIntroduction\n\u00b6\n\n\nThanks for purchasing TourPress WordPress Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our \nsupport website\n. You can visit \nthis knowledge base article\n to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\u00b6\n\u00b6\n\n\nIt is highly recommended to use the child theme so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.\n\n\nSupport Policy\n\u00b6\n\n\nSupport Includes\n\u00b6\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\u00b6\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.\n\n\n\n\nUpdating WordPress Theme\n\u00b6\n\n\nIf you want to update your theme then you can consult \nthis knowledge base article for automatic update\n OR you can consult \nthis knowledge base article\n to safely update TourPress Theme.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)",
             "title": "Introduction"
         },
         {
             "location": "/#tourpress-wordpress-theme",
-            "text": "This documentation is last updated on 27 th  June 2018",
+            "text": "This documentation is last updated on 31th July 2018",
             "title": "TourPress WordPress Theme"
         },
         {
@@ -182,13 +182,13 @@
         },
         {
             "location": "/home/settings/popular-destinations/",
-            "text": "Popular Destinations Settings\n\u00b6\n\n\nIf you want to display \nPopular Destinations\n on homepage then navigate to \nDashboard > Customize > Home > Popular Destinations\n. You can choose title description and number of Popular Destinations as shown below.\n\n\n\n\nThese Destinations are coming from Easy Tour \nDestinations Taxonomy\n. You can configure destinations as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
-            "title": "Popular Destinations"
+            "text": "Travel Destinations Settings\n\u00b6\n\n\nIf you want to display \nTravel Destinations\n on homepage then navigate to \nDashboard > Customize > Home > Travel Destinations\n. You can choose title description and number of Popular Destinations as shown below.\n\n\n\n\nThese Destinations are coming from Easy Tour \nDestinations Taxonomy\n. You can configure destinations as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
+            "title": "Travel Destinations"
         },
         {
-            "location": "/home/settings/popular-destinations/#popular-destinations-settings",
-            "text": "If you want to display  Popular Destinations  on homepage then navigate to  Dashboard > Customize > Home > Popular Destinations . You can choose title description and number of Popular Destinations as shown below.   These Destinations are coming from Easy Tour  Destinations Taxonomy . You can configure destinations as shown below   It will look like the below image on home page front-end",
-            "title": "Popular Destinations Settings"
+            "location": "/home/settings/popular-destinations/#travel-destinations-settings",
+            "text": "If you want to display  Travel Destinations  on homepage then navigate to  Dashboard > Customize > Home > Travel Destinations . You can choose title description and number of Popular Destinations as shown below.   These Destinations are coming from Easy Tour  Destinations Taxonomy . You can configure destinations as shown below   It will look like the below image on home page front-end",
+            "title": "Travel Destinations Settings"
         },
         {
             "location": "/home/settings/special-offers/",
@@ -402,17 +402,17 @@
         },
         {
             "location": "/tour/settings/price-format/",
-            "text": "If you want to set the price format of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nPrice Format\n tab as shown below",
+            "text": "If you want to set the price format for tours then go to \nDashboard > Easy Tours > Settings\n and look for \nPrice Format\n tab as shown below",
             "title": "Price Format Settings"
         },
         {
             "location": "/tour/settings/tour-slugs/",
-            "text": "If you want to set the Slugs of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nURL Slugs\n tab as shown below",
+            "text": "If you want to set the Slugs for tours then go to \nDashboard > Easy Tours > Settings\n and look for \nURL Slugs\n tab as shown below",
             "title": "URL Slugs Settings"
         },
         {
             "location": "/tour/settings/tour-google-map-api/",
-            "text": "If you want to Google Maps API of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nOthers\n tab as shown below",
+            "text": "If you want to add Google Maps API then go to \nDashboard > Easy Tours > Settings\n and look for \nOthers\n tab as shown below",
             "title": "Google Maps API"
         },
         {
