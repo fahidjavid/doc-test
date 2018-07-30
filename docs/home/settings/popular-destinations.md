@@ -1,6 +1,6 @@
-## **Popular Destinations Settings**
+## **Travel Destinations Settings**
 
-If you want to display **Popular Destinations** on homepage then navigate to **Dashboard > Customize > Home > Popular Destinations**. You can choose title description and number of Popular Destinations as shown below.
+If you want to display **Travel Destinations** on homepage then navigate to **Dashboard > Customize > Home > Travel Destinations**. You can choose title description and number of Popular Destinations as shown below.
 
 ![img](../../img/homepage-popular-destinations.png)
 
