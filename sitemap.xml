@@ -86,21 +86,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://inspirythemes.github.io/tp-doc/tour/settings/price-format/</loc>
-     <lastmod>2018-07-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://inspirythemes.github.io/tp-doc/tour/settings/tour-slugs/</loc>
-     <lastmod>2018-07-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://inspirythemes.github.io/tp-doc/tour/settings/tour-google-map-api/</loc>
-     <lastmod>2018-07-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://inspirythemes.github.io/tp-doc/pages/</loc>
      <lastmod>2018-07-30</lastmod>
      <changefreq>daily</changefreq>
@@ -137,6 +122,21 @@
     </url>
     <url>
      <loc>https://inspirythemes.github.io/tp-doc/widgets/tours-search/</loc>
+     <lastmod>2018-07-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://inspirythemes.github.io/tp-doc/tour/settings/price-format/</loc>
+     <lastmod>2018-07-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://inspirythemes.github.io/tp-doc/tour/settings/tour-slugs/</loc>
+     <lastmod>2018-07-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://inspirythemes.github.io/tp-doc/tour/settings/tour-google-map-api/</loc>
      <lastmod>2018-07-30</lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -242,7 +242,7 @@
         },
         {
             "location": "/tour/add-tour/",
-            "text": "Add Tour Title\n\u00b6\n\n\n\n\nAdd Tour Description\n\u00b6\n\n\n\n\nAdd Basic Information\n\u00b6\n\n\nAdd basic information related to tour, Like Price, Discounted Price, Days, Departure, Meal etc.\n\n\n\n\nProvide Location on Google Map\n\u00b6\n\n\nProvide tour address and drag the google map pointer to correct location.\n\n\n\n\nTour Offers Included\n\u00b6\n\n\nAdd tour offers and features which are included or not.\n\n\n\n\nTour Itinerary\n\u00b6\n\n\nAdd tour Itinerary, visits and places.\n\n\n\n\nAdd Gallery Images\n\u00b6\n\n\nProvide tour gallery images.\n\n\n\n\nThe recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.\n\n\n\n\n\n\nAdd Banner\n\u00b6\n\n\nProvide tour banner details.\n\n\n\n\nThe recommended banner image size is 1600px by 600px. Tour featured image will be displayed if no banner is provided..\n\n\n\n\n\n\nAdd Tour To Homepage Slider\n\u00b6\n\n\nIf you want to add tour to homepage slider then you have to provide the details shown in below screenshot\n\n\n\n\nThe recommended image size is 2000px by 750px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.\n\n\n\n\n\n\nAdd Featured Image\n\u00b6\n\n\nProvide tour featured image (it is a must )\n\n\n\n\nMinimum required image size is 720px by 560px.\n\n\n\n\n\n\nAdd/Assign Tour Destinations\n\u00b6\n\n\nYou can choose or add tour destinations from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Types\n\u00b6\n\n\nYou can choose or add tour types from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Months\n\u00b6\n\n\nYou can choose or add tour months from related meta box displayed in screen shot below.\n\n\n\n\nPublish the tour post once it is ready.",
+            "text": "Add Tour Title\n\u00b6\n\n\n\n\nAdd Tour Description\n\u00b6\n\n\n\n\nAdd Basic Information\n\u00b6\n\n\nAdd basic information related to tour, Like Price, Discounted Price, Days, Departure, Meal etc.\n\n\n\n\nProvide Location on Google Map\n\u00b6\n\n\nProvide tour address and drag the google map pointer to correct location.\n\n\n\n\nTour Offers Included\n\u00b6\n\n\nAdd tour offers and features which are included or not.\n\n\n\n\nTour Itinerary\n\u00b6\n\n\nAdd tour Itinerary, visits and places.\n\n\n\n\nAdd Gallery Images\n\u00b6\n\n\nProvide tour gallery images.\n\n\n\n\nIt is recommended to upload bigger images like 1200px by 800px or even bigger.\n\n\n\n\n\n\nAdd Banner\n\u00b6\n\n\nProvide tour banner details.\n\n\n\n\nThe recommended banner image size is 1600px by 600px. Tour featured image will be displayed if no banner is provided..\n\n\n\n\n\n\nAdd Tour To Homepage Slider\n\u00b6\n\n\nIf you want to add tour to homepage slider then you have to provide the details shown in below screenshot\n\n\n\n\nThe recommended image size is 2000px by 750px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.\n\n\n\n\n\n\nAdd Featured Image\n\u00b6\n\n\nProvide tour featured image (it is a must )\n\n\n\n\nMinimum required image size is 720px by 560px.\n\n\n\n\n\n\nAdd/Assign Tour Destinations\n\u00b6\n\n\nYou can choose or add tour destinations from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Types\n\u00b6\n\n\nYou can choose or add tour types from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Months\n\u00b6\n\n\nYou can choose or add tour months from related meta box displayed in screen shot below.\n\n\n\n\nPublish the tour post once it is ready.",
             "title": "Add New Tour"
         },
         {
@@ -277,7 +277,7 @@
         },
         {
             "location": "/tour/add-tour/#add-gallery-images",
-            "text": "Provide tour gallery images.   The recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.",
+            "text": "Provide tour gallery images.   It is recommended to upload bigger images like 1200px by 800px or even bigger.",
             "title": "Add Gallery Images"
         },
         {
@@ -334,21 +334,6 @@
             "location": "/tour/settings/tour-detail-page/#similar-tours",
             "text": "You can add similar tours details from  Dashboard > Customize > Tour Detail Page  as shown below.   It will look like the below image on front-end.",
             "title": "Similar Tours"
-        },
-        {
-            "location": "/tour/settings/price-format/",
-            "text": "If you want to set the price format of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nPrice Format\n tab as shown below",
-            "title": "Tours Price Format"
-        },
-        {
-            "location": "/tour/settings/tour-slugs/",
-            "text": "If you want to set the Slugs of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nURL Slugs\n tab as shown below",
-            "title": "Tours Slugs"
-        },
-        {
-            "location": "/tour/settings/tour-google-map-api/",
-            "text": "If you want to Google Maps API of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nOthers\n tab as shown below",
-            "title": "Tours Google Map API"
         },
         {
             "location": "/pages/",
@@ -414,6 +399,21 @@
             "location": "/widgets/tours-search/",
             "text": "Go to \nDashboard > Appearance > Widgets\n and look for Inspiry - Tours Search widget.\n\n\n\n\nUse that widget in a sidebar and provide its title.\n\n\n\n\nNow check out the front end of your site and you will have the Tours Search widget working.",
             "title": "Tours Search"
+        },
+        {
+            "location": "/tour/settings/price-format/",
+            "text": "If you want to set the price format of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nPrice Format\n tab as shown below",
+            "title": "Price Format Settings"
+        },
+        {
+            "location": "/tour/settings/tour-slugs/",
+            "text": "If you want to set the Slugs of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nURL Slugs\n tab as shown below",
+            "title": "URL Slugs Settings"
+        },
+        {
+            "location": "/tour/settings/tour-google-map-api/",
+            "text": "If you want to Google Maps API of tours then go to \nDashboard > Easy Tours > Settings\n and look for \nOthers\n tab as shown below",
+            "title": "Google Maps API"
         },
         {
             "location": "/woocommerce/",
