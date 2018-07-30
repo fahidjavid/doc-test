@@ -32,12 +32,21 @@ Add tour Itinerary, visits and places.
 
 ### **Add Gallery Images**
 
-Provide property gallery images.
+Provide tour gallery images.
 
 !!! warning ""
     The recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.
 
 ![img](../img/tour-gallery.png)
+
+### **Add Banner**
+
+Provide tour banner details.
+
+!!! warning ""
+    The recommended banner image size is 1600px by 600px. Tour featured image will be displayed if no banner is provided..
+
+![img](../img/tour-banner.png)
 
 ### **Add Tour To Homepage Slider**
 
@@ -50,7 +59,10 @@ If you want to add tour to homepage slider then you have to provide the details 
 
 ### **Add Featured Image**
 
-Provide property featured image (it is a must )
+Provide tour featured image (it is a must )
+
+!!! warning ""
+    Minimum required image size is 720px by 560px.
 
 ![img](../img/tour-feaure-img.png)
 

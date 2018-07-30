@@ -4,7 +4,7 @@ If you want to display **Slider** or **Banner** on homepage then navigate to **D
 
 ![img](../../img/homepage-slider-choose.png)
 
-These slides are coming from **Easy Tour Posts**. You can select any tour for slider as shown below
+These slides are coming from **Tours**. You can select any tour for slider as shown below
 
 ![img](../../img/homepage-slider-tour.png)
 

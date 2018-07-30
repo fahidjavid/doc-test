@@ -1,3 +1,6 @@
+!!! tip ""
+    If you have imported demo contents using **One Click Demo** OR **Import XML** method then pages and product will be created automatically. You just need to configure settings.
+
 To setup WooCommerce Shop, you need to install [WooCommerce](https://wordpress.org/plugins/woocommerce/) plugin on your site.
 
 ## Installing WooCommerce Plugin ##

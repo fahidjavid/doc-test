@@ -10,11 +10,11 @@ It will look like the below image on front-end
 
 ## **Tour Reviews**
 
-You can add tour reviews details from **Dashboard > Customize > Tour Detail Page** as shown below.
+You can add tour reviews section details from **Dashboard > Customize > Tour Detail Page** as shown below.
 
 ![img](../../img/tour-reviews.png)
 
-It will look like the below image on front-end
+It will look like the below image on front-end. You can rate and review this tour based on your experience.
 
 ![img](../../img/tour-reviews-front.png)
 
@@ -24,6 +24,6 @@ You can add similar tours details from **Dashboard > Customize > Tour Detail Pag
 
 ![img](../../img/similar-tours.png)
 
-It will look like the below image on front-end
+It will look like the below image on front-end. 
 
 ![img](../../img/similar-tours-front.png)
