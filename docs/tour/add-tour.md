@@ -35,7 +35,7 @@ Add tour Itinerary, visits and places.
 Provide tour gallery images.
 
 !!! warning ""
-    The recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.
+    It is recommended to upload bigger images like 1200px by 800px or even bigger.
 
 ![img](../img/tour-gallery.png)
 

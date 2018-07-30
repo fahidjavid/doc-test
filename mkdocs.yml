@@ -74,7 +74,7 @@ pages:
       - Tours Widget: widgets/tours.md
       - Tours Search: widgets/tours-search.md
     - Price Format Settings: tour/settings/price-format.md
-    - Tour Slugs Settings: tour/settings/tour-slugs.md
+    - URL Slugs Settings: tour/settings/tour-slugs.md
     - Google Maps API: tour/settings/tour-google-map-api.md
     - WooCommerce Setup: woocommerce.md
     - Customization: customization.md
