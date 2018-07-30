@@ -152,12 +152,12 @@
         },
         {
             "location": "/home/settings/slider-area/",
-            "text": "Slider Area Settings\n\u00b6\n\n\nIf you want to display \nSlider\n or \nBanner\n on homepage then navigate to \nDashboard > Customize > Home > Slider Area\n. You can choose \nslider\n or \nbanner\n option, \nNumber of slides to display\n and show/hide \nSearch form under slider\n as shown below.\n\n\n\n\nThese slides are coming from \nEasy Tour Posts\n. You can select any tour for slider as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
+            "text": "Slider Area Settings\n\u00b6\n\n\nIf you want to display \nSlider\n or \nBanner\n on homepage then navigate to \nDashboard > Customize > Home > Slider Area\n. You can choose \nslider\n or \nbanner\n option, \nNumber of slides to display\n and show/hide \nSearch form under slider\n as shown below.\n\n\n\n\nThese slides are coming from \nTours\n. You can select any tour for slider as shown below\n\n\n\n\nIt will look like the below image on home page front-end",
             "title": "Slider Area"
         },
         {
             "location": "/home/settings/slider-area/#slider-area-settings",
-            "text": "If you want to display  Slider  or  Banner  on homepage then navigate to  Dashboard > Customize > Home > Slider Area . You can choose  slider  or  banner  option,  Number of slides to display  and show/hide  Search form under slider  as shown below.   These slides are coming from  Easy Tour Posts . You can select any tour for slider as shown below   It will look like the below image on home page front-end",
+            "text": "If you want to display  Slider  or  Banner  on homepage then navigate to  Dashboard > Customize > Home > Slider Area . You can choose  slider  or  banner  option,  Number of slides to display  and show/hide  Search form under slider  as shown below.   These slides are coming from  Tours . You can select any tour for slider as shown below   It will look like the below image on home page front-end",
             "title": "Slider Area Settings"
         },
         {
@@ -242,7 +242,7 @@
         },
         {
             "location": "/tour/add-tour/",
-            "text": "Add Tour Title\n\u00b6\n\n\n\n\nAdd Tour Description\n\u00b6\n\n\n\n\nAdd Basic Information\n\u00b6\n\n\nAdd basic information related to tour, Like Price, Discounted Price, Days, Departure, Meal etc.\n\n\n\n\nProvide Location on Google Map\n\u00b6\n\n\nProvide tour address and drag the google map pointer to correct location.\n\n\n\n\nTour Offers Included\n\u00b6\n\n\nAdd tour offers and features which are included or not.\n\n\n\n\nTour Itinerary\n\u00b6\n\n\nAdd tour Itinerary, visits and places.\n\n\n\n\nAdd Gallery Images\n\u00b6\n\n\nProvide property gallery images.\n\n\n\n\nThe recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.\n\n\n\n\n\n\nAdd Tour To Homepage Slider\n\u00b6\n\n\nIf you want to add tour to homepage slider then you have to provide the details shown in below screenshot\n\n\n\n\nThe recommended image size is 2000px by 750px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.\n\n\n\n\n\n\nAdd Featured Image\n\u00b6\n\n\nProvide property featured image (it is a must )\n\n\n\n\nAdd/Assign Tour Destinations\n\u00b6\n\n\nYou can choose or add tour destinations from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Types\n\u00b6\n\n\nYou can choose or add tour types from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Months\n\u00b6\n\n\nYou can choose or add tour months from related meta box displayed in screen shot below.\n\n\n\n\nPublish the tour post once it is ready.",
+            "text": "Add Tour Title\n\u00b6\n\n\n\n\nAdd Tour Description\n\u00b6\n\n\n\n\nAdd Basic Information\n\u00b6\n\n\nAdd basic information related to tour, Like Price, Discounted Price, Days, Departure, Meal etc.\n\n\n\n\nProvide Location on Google Map\n\u00b6\n\n\nProvide tour address and drag the google map pointer to correct location.\n\n\n\n\nTour Offers Included\n\u00b6\n\n\nAdd tour offers and features which are included or not.\n\n\n\n\nTour Itinerary\n\u00b6\n\n\nAdd tour Itinerary, visits and places.\n\n\n\n\nAdd Gallery Images\n\u00b6\n\n\nProvide tour gallery images.\n\n\n\n\nThe recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.\n\n\n\n\n\n\nAdd Banner\n\u00b6\n\n\nProvide tour banner details.\n\n\n\n\nThe recommended banner image size is 1600px by 600px. Tour featured image will be displayed if no banner is provided..\n\n\n\n\n\n\nAdd Tour To Homepage Slider\n\u00b6\n\n\nIf you want to add tour to homepage slider then you have to provide the details shown in below screenshot\n\n\n\n\nThe recommended image size is 2000px by 750px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.\n\n\n\n\n\n\nAdd Featured Image\n\u00b6\n\n\nProvide tour featured image (it is a must )\n\n\n\n\nMinimum required image size is 720px by 560px.\n\n\n\n\n\n\nAdd/Assign Tour Destinations\n\u00b6\n\n\nYou can choose or add tour destinations from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Types\n\u00b6\n\n\nYou can choose or add tour types from related meta box displayed in screen shot below.\n\n\n\n\nAdd/Assign Tour Months\n\u00b6\n\n\nYou can choose or add tour months from related meta box displayed in screen shot below.\n\n\n\n\nPublish the tour post once it is ready.",
             "title": "Add New Tour"
         },
         {
@@ -277,8 +277,13 @@
         },
         {
             "location": "/tour/add-tour/#add-gallery-images",
-            "text": "Provide property gallery images.   The recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.",
+            "text": "Provide tour gallery images.   The recommended image size is 1366px by 768px. You can use bigger or smaller image but try to keep the same height to width ratio.",
             "title": "Add Gallery Images"
+        },
+        {
+            "location": "/tour/add-tour/#add-banner",
+            "text": "Provide tour banner details.   The recommended banner image size is 1600px by 600px. Tour featured image will be displayed if no banner is provided..",
+            "title": "Add Banner"
         },
         {
             "location": "/tour/add-tour/#add-tour-to-homepage-slider",
@@ -287,7 +292,7 @@
         },
         {
             "location": "/tour/add-tour/#add-featured-image",
-            "text": "Provide property featured image (it is a must )",
+            "text": "Provide tour featured image (it is a must )   Minimum required image size is 720px by 560px.",
             "title": "Add Featured Image"
         },
         {
@@ -312,7 +317,7 @@
         },
         {
             "location": "/tour/settings/tour-detail-page/",
-            "text": "Booking Form in Sidebar\n\u00b6\n\n\nYou can choose booking form in sidebar option from \nDashboard > Customize > Tour Detail Page\n as shown below.\n\n\n\n\nIt will look like the below image on front-end\n\n\n\n\nTour Reviews\n\u00b6\n\n\nYou can add tour reviews details from \nDashboard > Customize > Tour Detail Page\n as shown below.\n\n\n\n\nIt will look like the below image on front-end\n\n\n\n\nSimilar Tours\n\u00b6\n\n\nYou can add similar tours details from \nDashboard > Customize > Tour Detail Page\n as shown below.\n\n\n\n\nIt will look like the below image on front-end",
+            "text": "Booking Form in Sidebar\n\u00b6\n\n\nYou can choose booking form in sidebar option from \nDashboard > Customize > Tour Detail Page\n as shown below.\n\n\n\n\nIt will look like the below image on front-end\n\n\n\n\nTour Reviews\n\u00b6\n\n\nYou can add tour reviews section details from \nDashboard > Customize > Tour Detail Page\n as shown below.\n\n\n\n\nIt will look like the below image on front-end. You can rate and review this tour based on your experience.\n\n\n\n\nSimilar Tours\n\u00b6\n\n\nYou can add similar tours details from \nDashboard > Customize > Tour Detail Page\n as shown below.\n\n\n\n\nIt will look like the below image on front-end.",
             "title": "Tours Detils Page"
         },
         {
@@ -322,12 +327,12 @@
         },
         {
             "location": "/tour/settings/tour-detail-page/#tour-reviews",
-            "text": "You can add tour reviews details from  Dashboard > Customize > Tour Detail Page  as shown below.   It will look like the below image on front-end",
+            "text": "You can add tour reviews section details from  Dashboard > Customize > Tour Detail Page  as shown below.   It will look like the below image on front-end. You can rate and review this tour based on your experience.",
             "title": "Tour Reviews"
         },
         {
             "location": "/tour/settings/tour-detail-page/#similar-tours",
-            "text": "You can add similar tours details from  Dashboard > Customize > Tour Detail Page  as shown below.   It will look like the below image on front-end",
+            "text": "You can add similar tours details from  Dashboard > Customize > Tour Detail Page  as shown below.   It will look like the below image on front-end.",
             "title": "Similar Tours"
         },
         {
@@ -412,7 +417,7 @@
         },
         {
             "location": "/woocommerce/",
-            "text": "To setup WooCommerce Shop, you need to install \nWooCommerce\n plugin on your site.\n\n\nInstalling WooCommerce Plugin\n\u00b6\n\n\nGo to the \nAppearance > Plugins > Add New\n page and search for the \nWooCommerce\n as guided in the following screenshot.\n\n\n\n\nClick on \nInstall Now\n button and then \nActivate\n the plugin.\n\n\nWooCommerce Store Setup\n\u00b6\n\n\nOnce you clicked the plugin \nActivate\n button it will take you to the WooCommerce Store Setup page, where you can complete your store setup in steps. See this helping screenshot.\n\n\n\n\nImport Products & Shop Pages\n\u00b6\n\n\nAfter WooCommerce Store Setup completion you can import your Products from your older site via CSV file by clicking on the \nImport products\n button.\n\n\n\n\nOnce you clicked the \nImport products\n button, it will redirect you to the products import page.\n\n\n\n\nCreate Shop Pages\n\u00b6\n\n\n\n\nIf you have followed above store setup procedure or you have imported the Shop pages with Products already then you do not need to create them again.\n\n\n\n\nShop Page\n\u00b6\n\n\nYou can give a title \nShop\n to this page and select \nDefault Template\n then click the \nPublish\n button.\n\n\n\n\nCart Page\n\u00b6\n\n\nYou can give a title \nCart\n to this page and select \nFull Width\n template. Add \n[woocommerce_cart]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nCheckout Page\n\u00b6\n\n\nYou can give a title \nCheckout\n to this page and select \nFull Width\n template. Add \n[woocommerce_checkout]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nMy Account Page\n\u00b6\n\n\nYou can give a title \nMy account\n to this page and select \nFull Width\n template. Add \n[woocommerce_my_account]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nWooCommerce Settings\n\u00b6\n\n\nYou can update WooCommerce Settings from \nWooCommerce > Settings\n page and its tabs. \n\n\n\n\n\n\n\n\nConfigure Shop Page\n\n\nGo to the \nProducts > Display\n tab and select \nShop\n page for \nShop page\n option as displayed in the following screenshot.\n\n\n\n\n\n\n\n\nConfigure Cart & Checkout Pages\n\n\nGo to the \nCheckout > Checkout options\n tab and select \nCart\n and \nCheckout\n pages accordingly.\n\n\n\n\n\n\n\n\nMy Account Page\n\n\nGo to the \nAccounts\n tab and select \nMy account\n page for the \nMy account page\n option.\n\n\n\n\n\n\n\n\n\n\nIf above guide is not enough for you to setup your shop. Then you can consult WooCommerce plugin's extensive documentation or detailed video tutorials on the following links.\n\n\nGetting Started Documentation\n | \n\nGetting Started Video Tutorials",
+            "text": "If you have imported demo contents using \nOne Click Demo\n OR \nImport XML\n method then pages and product will be created automatically. You just need to configure settings.\n\n\n\n\nTo setup WooCommerce Shop, you need to install \nWooCommerce\n plugin on your site.\n\n\nInstalling WooCommerce Plugin\n\u00b6\n\n\nGo to the \nAppearance > Plugins > Add New\n page and search for the \nWooCommerce\n as guided in the following screenshot.\n\n\n\n\nClick on \nInstall Now\n button and then \nActivate\n the plugin.\n\n\nWooCommerce Store Setup\n\u00b6\n\n\nOnce you clicked the plugin \nActivate\n button it will take you to the WooCommerce Store Setup page, where you can complete your store setup in steps. See this helping screenshot.\n\n\n\n\nImport Products & Shop Pages\n\u00b6\n\n\nAfter WooCommerce Store Setup completion you can import your Products from your older site via CSV file by clicking on the \nImport products\n button.\n\n\n\n\nOnce you clicked the \nImport products\n button, it will redirect you to the products import page.\n\n\n\n\nCreate Shop Pages\n\u00b6\n\n\n\n\nIf you have followed above store setup procedure or you have imported the Shop pages with Products already then you do not need to create them again.\n\n\n\n\nShop Page\n\u00b6\n\n\nYou can give a title \nShop\n to this page and select \nDefault Template\n then click the \nPublish\n button.\n\n\n\n\nCart Page\n\u00b6\n\n\nYou can give a title \nCart\n to this page and select \nFull Width\n template. Add \n[woocommerce_cart]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nCheckout Page\n\u00b6\n\n\nYou can give a title \nCheckout\n to this page and select \nFull Width\n template. Add \n[woocommerce_checkout]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nMy Account Page\n\u00b6\n\n\nYou can give a title \nMy account\n to this page and select \nFull Width\n template. Add \n[woocommerce_my_account]\n shortcode to the content area then click the \nPublish\n button.\n\n\n\n\nWooCommerce Settings\n\u00b6\n\n\nYou can update WooCommerce Settings from \nWooCommerce > Settings\n page and its tabs. \n\n\n\n\n\n\n\n\nConfigure Shop Page\n\n\nGo to the \nProducts > Display\n tab and select \nShop\n page for \nShop page\n option as displayed in the following screenshot.\n\n\n\n\n\n\n\n\nConfigure Cart & Checkout Pages\n\n\nGo to the \nCheckout > Checkout options\n tab and select \nCart\n and \nCheckout\n pages accordingly.\n\n\n\n\n\n\n\n\nMy Account Page\n\n\nGo to the \nAccounts\n tab and select \nMy account\n page for the \nMy account page\n option.\n\n\n\n\n\n\n\n\n\n\nIf above guide is not enough for you to setup your shop. Then you can consult WooCommerce plugin's extensive documentation or detailed video tutorials on the following links.\n\n\nGetting Started Documentation\n | \n\nGetting Started Video Tutorials",
             "title": "WooCommerce Setup"
         },
         {
