@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "TourPress WordPress Theme\n\n\n\n\nThis documentation is last updated on 31th July 2018\n\n\n\n\nIntroduction\n\n\nThanks for purchasing TourPress WordPress Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our \nsupport website\n. You can visit \nthis knowledge base article\n to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\u00b6\n\n\nIt is highly recommended to use the \nchild theme\n over your parent theme for any kind of modification in the theme files so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.\n\n\nSupport Policy\n\n\nSupport Includes\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.\n\n\n\n\nUpdating WordPress Theme\n\n\nIf you want to update your theme then you can consult \nthis knowledge base article for automatic update\n OR you can consult \nthis knowledge base article\n to safely update TourPress Theme.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)", 
+            "text": "TourPress WordPress Theme\n\n\n\n\nThis documentation is last updated on 31th July 2018\n\n\n\n\nIntroduction\n\n\nThanks for purchasing TourPress WordPress Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our \nsupport website\n. You can visit \nthis knowledge base article\n to learn about how to get item purchase code from themeforest.net to sign-up on our support site.\n\n\nImportant Note\n\n\nIt is highly recommended to use the \nchild theme\n over your parent theme for any kind of modification in the theme files so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.\n\n\nSupport Policy\n\n\nSupport Includes\n\n\n\n\nAnswering technical questions about theme features.\n\n\nAssistance with reported bugs and issues.\n\n\nHelp with included 3\nrd\n party assets.\n\n\n\n\nSupport Does Not Includes\n\n\n\n\nTheme customization services.\n\n\nTheme installation services.\n\n\n\n\nUpdating WordPress Theme\n\n\nIf you want to update your theme then you can consult \nthis knowledge base article for automatic update\n OR you can consult \nthis knowledge base article\n to safely update TourPress Theme.\n\n\nIf you like this theme, Please support us by rating this theme with 5 stars (\nHow to rate?\n)", 
             "title": "Introduction"
         }, 
         {
@@ -18,7 +18,7 @@
         {
             "location": "/#important-note", 
             "text": "It is highly recommended to use the  child theme  over your parent theme for any kind of modification in the theme files so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.", 
-            "title": "Important Note\u00b6"
+            "title": "Important Note"
         }, 
         {
             "location": "/#support-policy", 
