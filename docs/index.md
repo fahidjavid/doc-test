@@ -5,7 +5,7 @@
 ## Introduction
 Thanks for purchasing TourPress WordPress Theme. If you have any question that is beyond the scope of this documentation, feel free to ask that on our [support website](https://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.
 
-## Important Note¶
+## Important Note
 It is highly recommended to use the [child theme](https://codex.wordpress.org/Child_Themes) over your parent theme for any kind of modification in the theme files so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.
 
 ## Support Policy
