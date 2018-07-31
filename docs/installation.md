@@ -33,7 +33,8 @@ Once you have a working version of WordPress, You need to download [All Files an
 4. Go to **WordPress Dashboard > Appearance > Themes** page to activate the theme
 
 ## Install Child Theme
-It is better to use child theme as if you need to modify anything you modify in child theme only. This way you can easily update your parent theme whenever new update becomes available on themeforest. You can read more about child theme by [clicking here](https://codex.wordpress.org/Child_Themes).
+
+It is highly recommended to use the [child theme](https://codex.wordpress.org/Child_Themes) over your parent theme for any kind of modification in the theme files so that you can easily update parent theme whenever a new update becomes available. A pre-built ready to use child theme is included in the main theme pack that you have downloaded from ThemeForest.
 
 To install child theme, you need to upload the **inspiry-tourpress-child.zip** and activate it in the same way as you uploaded and activated the parent theme's **inspiry-tourpress.zip**.
 
