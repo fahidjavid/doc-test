@@ -79,6 +79,9 @@ pages:
     - WooCommerce Setup: woocommerce.md
     - Customization: customization.md
 
+# Change it to true before building (mkdocs build) for putting online.
+# It should be false for themeforest package.
+use_directory_urls: true
 
 markdown_extensions:
   - admonition
