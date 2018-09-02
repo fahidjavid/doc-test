@@ -7,7 +7,7 @@
 # License: The MIT License (MIT)
 
 # Branding
-site_name: TourPress WordPress Theme
+site_name: TourPress Documentation
 site_description: 'Documentation for TourPress WordPress theme.'
 site_author: 'Inspiry Themes'
 site_url: 'https://inspirythemes.github.io/tp-doc/'
@@ -19,20 +19,20 @@ repo_url: 'https://github.com/InspiryThemes/tp-doc'
 # Copyright
 copyright: 'Copyright &copy; 2018 InspiryThemes'
 
-theme: 'material'
-theme_dir: 'mkdocs-material/material'
-
-#use_directory_urls: false // to build direct links
-
-
-extra:
-  version: 1.0
+theme:
+  language: 'en'
+  name: 'material'
   palette:
     primary: 'light-blue'
     accent: 'green'
   font:
-      text: 'Open Sans'
-      code: 'Ubuntu Mono'
+    text: 'Open Sans'
+    code: 'Ubuntu Mono'
+  theme_dir: 'mkdocs-material/material'
+
+
+extra:
+  version: 1.0
   social:
       - type: 'twitter'
         link: 'https://twitter.com/inspirythemes'
@@ -43,7 +43,7 @@ extra:
 extra_css:
   - 'stylesheets/style.css'
 
-pages:
+nav:
     - Introduction: index.md
     - Installation: installation.md
     - Import Demo Contents: import-demo-contents.md
