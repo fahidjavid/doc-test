@@ -60,6 +60,9 @@ pages:
         - Blog Posts: home/settings/recent-from-blog.md
         - Testimonials: home/settings/testimonials.md
         - Explore Tours: home/settings/explore-tours.md
+    - Tours Search:
+      - Create Tours Search Page: tours-search-page.md
+      - Tours Search Settings: tours-search-settings.md
     - Tours:
       - Add New Tour: tour/add-tour.md
       - Create Tours Page: tour/create-tours-page.md
