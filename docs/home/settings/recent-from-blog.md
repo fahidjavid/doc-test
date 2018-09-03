@@ -1,6 +1,6 @@
 ## **Homepage Blog Posts Settings**
 
-If you want to display **Homepage Blog Posts** on homepage then navigate to **Dashboard > Customize > Home > Blog**. You can choose title, description, number of blog posts and blog posts from of recent from blog section as shown below.
+If you want to display **Homepage Blog Posts** on homepage then navigate to **Dashboard &rarr; Customize &rarr; Home &rarr; Blog**. You can choose title, description, number of blog posts and blog posts from of recent from blog section as shown below.
 
 ![img](../../img/recent-from-blog.png)
 

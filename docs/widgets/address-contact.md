@@ -1,4 +1,4 @@
-Go to **Dashboard > Appearance > Widgets** and look for Inspiry - Address & Contacts widget.
+Go to **Dashboard &rarr; Appearance &rarr; Widgets** and look for Inspiry - Address & Contacts widget.
 
 ![img](../img/address-contacts-widget.png)
 

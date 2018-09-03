@@ -1,6 +1,6 @@
 ## **Featured Tour Package Settings**
 
-If you want to display **Featured Tours** on homepage then navigate to **Dashboard > Customize > Home > Featured Packages**. You can choose title description and number of featured tours as shown below.
+If you want to display **Featured Tours** on homepage then navigate to **Dashboard &rarr; Customize &rarr; Home &rarr; Featured Packages**. You can choose title description and number of featured tours as shown below.
 
 ![img](../../img/homepage-featured-tour.png)
 

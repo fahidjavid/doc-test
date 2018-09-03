@@ -1,6 +1,6 @@
 ## **Homepage Testimonials Settings**
 
-If you want to display **Homepage Testimonials** on homepage then navigate to **Dashboard > Customize > Home > Testimonials**. You can choose title, description and number of testimonials posts of testimonials section as shown below.
+If you want to display **Homepage Testimonials** on homepage then navigate to **Dashboard &rarr; Customize &rarr; Home &rarr; Testimonials**. You can choose title, description and number of testimonials posts of testimonials section as shown below.
 
 ![img](../../img/homepage-testimonials.png)
 

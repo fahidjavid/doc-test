@@ -1,4 +1,4 @@
-Go to **Dashboard > Appearance > Widgets** and look for Inspiry - Recent Posts widget.
+Go to **Dashboard &rarr; Appearance &rarr; Widgets** and look for Inspiry - Recent Posts widget.
 
 ![img](../img/recent-posts-widget.png)
 

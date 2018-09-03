@@ -2,7 +2,7 @@
 To Import Demo Contents follow these steps.
 
 ### **Step 1**
-Go to **Dashboard > Settings > Permalinks** page and configure it to the **Post name** as displayed in the screenshot given below.
+Go to **Dashboard &rarr; Settings &rarr; Permalinks** page and configure it to the **Post name** as displayed in the screenshot given below.
 
 ![img](img/install-10.png)
 
@@ -10,7 +10,7 @@ Go to **Dashboard > Settings > Permalinks** page and configure it to the **Post 
 
 !!! warning ""
     It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.
-Go to **Appearance > Import Demo Data** Click on **Import Demo Data** button, wait for import process it may take a couple of minutes to complete :)
+Go to **Appearance &rarr; Import Demo Data** Click on **Import Demo Data** button, wait for import process it may take a couple of minutes to complete :)
 
 ![img](img/08-install.png)
     
@@ -20,13 +20,13 @@ Visit your site and you will find your site working like the theme demo. In case
 
 ##2. Import XML Contents and Configure Settings Manually
 ### **Step 1**
-Go to **Dashboard > Settings > Permalinks** page and configure it to the **Post name** as displayed in the screenshot given below.
+Go to **Dashboard &rarr; Settings &rarr; Permalinks** page and configure it to the **Post name** as displayed in the screenshot given below.
 
 ![img](img/install-10.png)
 
 ### **Step 2**
 
-Go to **Dashboard > Tools > Import** and click Install Now shown under WordPress as displayed in image below.
+Go to **Dashboard &rarr; Tools &rarr; Import** and click Install Now shown under WordPress as displayed in image below.
 
 ![img](img/install-wordpress-importer.png)
 
@@ -53,13 +53,13 @@ After that is done, you will have bunch of posts, pages, tour post and other con
 
 ### **Step 4**
 
-Navigate to **Dashboard > Appearance > Menus** and use the Already Imported Menu from XML and assign it to theme location "Header Menu" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.
+Navigate to **Dashboard &rarr; Appearance &rarr; Menus** and use the Already Imported Menu from XML and assign it to theme location "Header Menu" from Menu Settings section below menu. After that save the menu. As pointed in screenshot below.
 
 ![img](img/header-menu.png)
 
 ### **Step 5**
 
-To configure reading settings you need to visit **Dashboard > Settings > Reading** and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).
+To configure reading settings you need to visit **Dashboard &rarr; Settings &rarr; Reading** and choose that front page displays as static page. Then select Home as Front Page and News as Posts Page (displayed in the following screenshot).
 
 ![img](img/install-09.png)
 
@@ -67,7 +67,7 @@ To configure reading settings you need to visit **Dashboard > Settings > Reading
 
 To import Customizer settings you have to install [ Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/).
 
-Once the plugin is installed and activate then navigate to **Dashboard > Customize > Export/Import** and then select the customizer.dat file.
+Once the plugin is installed and activate then navigate to **Dashboard &rarr; Customize &rarr; Export/Import** and then select the customizer.dat file.
 
 ![img](img/import-customizer-settings.png)
 
@@ -78,7 +78,7 @@ Upon successful import the Customizer will be refreshed.
 Now you can import widgets too. In order to do that, kindly install [Widget Importer & Exporter](https://wordpress.org/plugins/widget-importer-exporter/).
 
 
-After successful installation and activation navigate to **Dashboard > Tools > Widget Importer & Exporter** and then select the widgets.wie file.
+After successful installation and activation navigate to **Dashboard &rarr; Tools &rarr; Widget Importer & Exporter** and then select the widgets.wie file.
 
 ![img](img/import-widget-settings.png)
 

@@ -2,7 +2,7 @@
 
 There are various options available to modify styles in this theme.
 
-1. Go to **Customzier > Additional CSS** and add styles there.
+1. Go to **Customzier &rarr; Additional CSS** and add styles there.
 
     ![img](img/customization-01.png)
     

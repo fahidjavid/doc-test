@@ -1,6 +1,6 @@
 ## **Special Offers Settings**
 
-If you want to display **Special Offers** on homepage then navigate to **Dashboard > Customize > Home > Special Offers**. You can choose title description and number of Special Offers as shown below.
+If you want to display **Special Offers** on homepage then navigate to **Dashboard &rarr; Customize &rarr; Home &rarr; Special Offers**. You can choose title description and number of Special Offers as shown below.
 
 ![img](../../img/special-offers.png)
 

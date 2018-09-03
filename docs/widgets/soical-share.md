@@ -1,4 +1,4 @@
-Go to **Dashboard > Appearance > Widgets** and look for Inspiry - Social Share widget.
+Go to **Dashboard &rarr; Appearance &rarr; Widgets** and look for Inspiry - Social Share widget.
 
 ![img](../img/social-share-widget.png)
 

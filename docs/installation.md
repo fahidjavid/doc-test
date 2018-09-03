@@ -4,7 +4,7 @@ To start you must have a working version of WordPress. Almost all major web host
 Once you have a working version of WordPress, You need to download [All Files and Documentation](img/all-files.png) from themeforest [download page](https://themeforest.net/downloads) and extract the downloaded zip and look for the **inspiry-tourpress.zip**.
 
 ## Installing Theme Via WordPress Dashboard
-1.  Go to **Appearance > Themes** section
+1.  Go to **Appearance &rarr; Themes** section
 2.  Click **Add New**
 
     ![img](img/01-install.png)
@@ -30,7 +30,7 @@ Once you have a working version of WordPress, You need to download [All Files an
 1. Access your hosting server using an ftp client like [FileZilla](https://filezilla-project.org/)
 2. Go to the **wp-content/themes** folder of your WordPress installation
 3. Extract the **inspiry-tourpress.zip** file and put the **inspiry-tourpress** folder in **wp-content/themes/** folder
-4. Go to **WordPress Dashboard > Appearance > Themes** page to activate the theme
+4. Go to **WordPress Dashboard &rarr; Appearance &rarr; Themes** page to activate the theme
 
 ## Install Child Theme
 

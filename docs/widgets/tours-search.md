@@ -1,4 +1,4 @@
-Go to **Dashboard > Appearance > Widgets** and look for Inspiry - Tours Search widget.
+Go to **Dashboard &rarr; Appearance &rarr; Widgets** and look for Inspiry - Tours Search widget.
 
 ![img](../img/tours-search.png)
 

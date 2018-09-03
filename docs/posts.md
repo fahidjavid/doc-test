@@ -1,5 +1,5 @@
 ## Add Blog Posts
-You can create a new post from **Posts > Add New** page.
+You can create a new post from **Posts &rarr; Add New** page.
 
 Add the post title, content, categories, tags and set a featured image *(recommended size 750x300)* then click the **Publish** button. As, you can see in the following screenshots.
 
@@ -12,7 +12,7 @@ You can see a **Banner Configuration** metabox area for every post where you can
 ![img](img/page-01.png)
 
 ## Add Testimonials
-You add the testimonial from **Testimonials > Add New** page.
+You add the testimonial from **Testimonials &rarr; Add New** page.
 
 Add the testimonial author name, testimonial text and set the author photo (recommended size 150x150) then click the **Publish** button. As, you can see in the following screenshots.
 

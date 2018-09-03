@@ -5,7 +5,7 @@ To setup WooCommerce Shop, you need to install [WooCommerce](https://wordpress.o
 
 ## Installing WooCommerce Plugin ##
 
-Go to the **Appearance > Plugins > Add New** page and search for the *WooCommerce* as guided in the following screenshot.
+Go to the **Appearance &rarr; Plugins &rarr; Add New** page and search for the *WooCommerce* as guided in the following screenshot.
 
  ![img](img/woocommerce-01.png)
 
@@ -53,19 +53,19 @@ You can give a title **My account** to this page and select **Full Width** templ
  ![img](img/woocommerce-08.png)
  
 ## WooCommerce Settings ##
-You can update WooCommerce Settings from **WooCommerce > Settings** page and its tabs. 
+You can update WooCommerce Settings from **WooCommerce &rarr; Settings** page and its tabs. 
  
  ![img](img/woocommerce-09.png)
  
  1. **Configure Shop Page**
     
-    Go to the **Products > Display** tab and select *Shop* page for *Shop page* option as displayed in the following screenshot.
+    Go to the **Products &rarr; Display** tab and select *Shop* page for *Shop page* option as displayed in the following screenshot.
     
     ![img](img/woocommerce-10.png)
     
  1. **Configure Cart & Checkout Pages**
     
-    Go to the **Checkout > Checkout options** tab and select *Cart* and *Checkout* pages accordingly.
+    Go to the **Checkout &rarr; Checkout options** tab and select *Cart* and *Checkout* pages accordingly.
         
     ![img](img/woocommerce-11.png)
     

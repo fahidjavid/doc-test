@@ -1,6 +1,6 @@
 ##**Home Page Features Section Settings**
 
-Navigate to **Dashboard > Pages > Home** and click on edit and look for **Features List on Homepage**.
+Navigate to **Dashboard &rarr; Pages &rarr; Home** and click on edit and look for **Features List on Homepage**.
 
 ![img](../../img/homepage-features.png)
 

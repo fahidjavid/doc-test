@@ -1,7 +1,7 @@
 !!! info ""
     If you have imported the **Demo Contents** already then initial pages are already created and you do not need to create them again.
     
-You can create a new page from **Pages > Add New** page.
+You can create a new page from **Pages &rarr; Add New** page.
 
 You can see a Banner Configuration metabox area for every page where you can set a banner image and a custom title to display on it as you can see in the screenshot given below.
 

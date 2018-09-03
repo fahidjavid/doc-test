@@ -1,6 +1,6 @@
 ## **Explore Tours Settings**
 
-If you want to display **Explore Tours** on homepage then navigate to **Dashboard > Customize > Home > Explore Tours**. You can choose title, description and background image of explore tours section as shown below.
+If you want to display **Explore Tours** on homepage then navigate to **Dashboard &rarr; Customize &rarr; Home &rarr; Explore Tours**. You can choose title, description and background image of explore tours section as shown below.
 
 ![img](../../img/explore-tours.png)
 

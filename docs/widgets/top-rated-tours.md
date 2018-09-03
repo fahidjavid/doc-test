@@ -1,4 +1,4 @@
-Go to **Dashboard > Appearance > Widgets** and look for Inspiry - Top Rated Tours widget.
+Go to **Dashboard &rarr; Appearance &rarr; Widgets** and look for Inspiry - Top Rated Tours widget.
 
 ![img](../img/top-rated-tours.png)
 
