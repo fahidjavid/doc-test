@@ -11,3 +11,7 @@ Stylesheet for Tourpress Documentation
     font-weight: 500;
     color: #03a9f4;
 }
+
+.md-typeset h2 {
+    font-weight: 400;
+}

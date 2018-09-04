@@ -1,5 +1,3 @@
-# TourPress WordPress Theme
-
 !!! success "This documentation is last updated on 4th September 2018"
 
 ## Introduction

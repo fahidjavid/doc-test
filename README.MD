@@ -1,4 +1,4 @@
-# TP Project Under Progress
+# TourPress WordPress Theme
 
 A purpose oriented handcrafted WordPress theme for Tour Packages and Booking.
 
