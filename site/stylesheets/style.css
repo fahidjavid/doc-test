@@ -1,0 +1,17 @@
+/**
+
+Stylesheet for Tourpress Documentation
+
+**/
+.md-typeset img {
+    border: 3px solid #b7b7b75e;
+}
+
+.md-typeset h1 {
+    font-weight: 500;
+    color: #03a9f4;
+}
+
+.md-typeset h2 {
+    font-weight: 400;
+}
