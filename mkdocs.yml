@@ -61,10 +61,11 @@ nav:
         - Testimonials: home/settings/testimonials.md
         - Explore Tours: home/settings/explore-tours.md
     - Tours Search: tours-search.md
-    - Tours:
+    - Tours & Tours Page:
       - Add New Tour: tour/add-tour.md
       - Create Tours Page: tour/create-tours-page.md 
     - Tour Detils Page: tour/settings/tour-detail-page.md
+    - Taxonomy & Archive Pages: tour/taxonomy-and-archive-pages.md
     - Other Pages: pages.md
     - Other Posts: posts.md
     - Widgets:
