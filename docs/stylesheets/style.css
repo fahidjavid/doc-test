@@ -17,5 +17,6 @@ Stylesheet for Tourpress Documentation
 
 .md-typeset h2 {
     font-weight: 400;
+    font-weight: bold;
     margin: 25px 0 5px 0;
 }

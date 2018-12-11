@@ -8,7 +8,7 @@ Navigate to **Dashboard** &rarr; **Pages** and click on Add New and select **Tou
 
 Go to **Dashboard** &rarr; **Appearance** &rarr; **Customize** &rarr; **Tours Search Page** and select the page for **Tours Search Results** (screenshot below).
 
-![img](img/tours-search/tours-search-results-page.png)
+![img](img/tours-search/tours-search-results-page.gif)
 
 ## Tours Search Form Settings in Slider Area
 

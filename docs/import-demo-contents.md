@@ -10,7 +10,7 @@ Go to **Dashboard &rarr; Settings &rarr; Permalinks** page and configure it to t
 
 !!! warning ""
     It is important to complete **Step 1** as import script is programmed to work with pretty permalinks. Otherwise you will have configuration issues after importing demo data contents.
-Go to **Appearance &rarr; Import Demo Data** Click on **Import Demo Data** button, wait for import process it may take a couple of minutes to complete :)
+Go to **Dashboard &rarr; Appearance &rarr; Import Demo Data** Click on **Import Demo Data** button, wait for import process it may take a couple of minutes to complete :)
 
 ![img](img/08-install.png)
     

@@ -21,4 +21,3 @@ This theme is fully translation ready. For the theme translation to your languag
 ## Hire Customization Services ##
 
 If you need any additional features or want to have modifications in existing theme features then you can contact our theme [customization services team](https://inspirythemes.com/theme-customization/).
-

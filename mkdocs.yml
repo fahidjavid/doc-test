@@ -66,8 +66,13 @@ nav:
       - Create Tours Page: tour/create-tours-page.md 
     - Tour Detils Page: tour/settings/tour-detail-page.md
     - Taxonomy & Archive Pages: tour/taxonomy-and-archive-pages.md
-    - Other Pages: pages.md
-    - Other Posts: posts.md
+    - Other Pages:
+      - Blog/News Page: pages.md
+      - Contact Page: contact-page.md
+      - FAQs Page: faqs-page.md
+    - Other Posts: 
+      - Add Post: posts.md
+      - Add Testimonial: testimonials.md
     - Widgets:
       - Recent Posts: widgets/recent-posts.md
       - Top Rated Tours: widgets/top-rated-tours.md

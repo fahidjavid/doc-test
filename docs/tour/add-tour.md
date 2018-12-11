@@ -35,7 +35,7 @@ Add tour Itinerary, visits and places.
 Provide tour gallery images.
 
 !!! warning ""
-    It is recommended to upload bigger images like 1200px by 800px or even bigger.
+    It is recommended to upload bigger images like **1200px by 800px** or even bigger.
 
 ![img](../img/tour-gallery.png)
 
@@ -44,7 +44,7 @@ Provide tour gallery images.
 Provide tour banner details.
 
 !!! warning ""
-    The recommended banner image size is 1600px by 600px. Tour featured image will be displayed if no banner is provided..
+    The recommended banner image size is **1600px by 600px**. Tour featured image will be displayed if no banner is provided..
 
 ![img](../img/tour-banner.png)
 
@@ -53,7 +53,7 @@ Provide tour banner details.
 If you want to add tour to homepage slider then you have to provide the details shown in below screenshot
 
 !!! warning ""
-    The recommended image size is 2000px by 750px. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.
+    The recommended image size is **2000px by 750px**. You can use bigger or smaller image but try to keep the same height to width ratio and use the exactly same size images for all tours that will be added in slider.
 
 ![img](../img/tour-slider.png)
 
@@ -62,7 +62,7 @@ If you want to add tour to homepage slider then you have to provide the details 
 Provide tour featured image (it is a must )
 
 !!! warning ""
-    Minimum required image size is 720px by 560px.
+    Minimum required image size is **720px by 560px**.
 
 ![img](../img/tour-feaure-img.png)
 
