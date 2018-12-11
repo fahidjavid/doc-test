@@ -8,10 +8,14 @@ Stylesheet for Tourpress Documentation
 }
 
 .md-typeset h1 {
-    font-weight: 500;
     color: #03a9f4;
+    font-weight: bold;
+    border-bottom: 2px solid #edf5f9;
+    padding-bottom: 20px;
+    margin: 0;
 }
 
 .md-typeset h2 {
     font-weight: 400;
+    margin: 25px 0 5px 0;
 }
