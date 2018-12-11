@@ -21,4 +21,4 @@ It is highly recommended that you should use the [child theme](https://codex.wor
 If you want to update your theme then you can consult [this knowledge base article for automatic update](https://support.inspirythemes.com/knowledgebase/update-theme-automatically/) OR you can consult [this knowledge base article](https://support.inspirythemes.com/knowledgebase/update-theme-manually/) to safely update TourPress Theme.
 
 **If you like this theme, Please support us by rating this theme with 5 stars**
-![How to rate?](../../img/how-to-rate-theme.png)
+![How to rate?](img/how-to-rate-theme.png)
