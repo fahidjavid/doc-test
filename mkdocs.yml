@@ -63,8 +63,8 @@ nav:
     - Tours Search: tours-search.md
     - Tours:
       - Add New Tour: tour/add-tour.md
-      - Create Tours Page: tour/create-tours-page.md
-      - Tours Detils Page: tour/settings/tour-detail-page.md
+      - Create Tours Page: tour/create-tours-page.md 
+    - Tour Detils Page: tour/settings/tour-detail-page.md
     - Other Pages: pages.md
     - Other Posts: posts.md
     - Widgets:
@@ -86,11 +86,11 @@ use_directory_urls: true
 
 markdown_extensions:
   - admonition
-  - codehilite(guess_lang=true,linenums=true)
-  - toc(permalink=true)
+  - codehilite
+  - toc
   - footnotes
   - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.betterem
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.emoji:
@@ -100,6 +100,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tasklist
   - pymdownx.tilde
   - meta
