@@ -64,6 +64,7 @@ nav:
       - Topbar Settings: header/topbar.md
       - Banner Settings: header/banner.md
       - Other Settings: header/others.md
+    - Footer: footer/footer-settings.md
     - Tours Search: tours-search.md
     - Tours & Tours Page:
       - Add New Tour: tour/add-tour.md
