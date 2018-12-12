@@ -1,5 +1,3 @@
-## Topbar Settings
-
 **Topbar Settings** are located in **Dashboard &rarr; Appearance &rarr; Customize &rarr; Header** and click on **Topbar**. In this section you will find the following settings.
 
 - **Topbar Above Header**
