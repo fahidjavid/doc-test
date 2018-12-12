@@ -60,6 +60,10 @@ nav:
         - Blog Posts: home/settings/recent-from-blog.md
         - Testimonials: home/settings/testimonials.md
         - Explore Tours: home/settings/explore-tours.md
+    - Header:
+      - Topbar Settings: header/topbar.md
+      - Banner Settings: header/banner.md
+      - Other Settings: header/others.md
     - Tours Search: tours-search.md
     - Tours & Tours Page:
       - Add New Tour: tour/add-tour.md
