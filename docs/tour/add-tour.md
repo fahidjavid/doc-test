@@ -1,10 +1,10 @@
-### **Add Tour Title**
+### **Add Tour Title & Description**
 
-![img](../img/tour-title.png)
+The following animation displays how you can add a New Tour to the system. It displays almost each section of the Add Tour process.
 
-### **Add Tour Description**
+![img](../img/add-tour-gutenberg.gif)
 
-![img](../img/tour-desc.png)
+Furthermore, you can see see all the sections with details below.
 
 ### **Add Basic Information**
 
