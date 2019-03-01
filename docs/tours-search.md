@@ -4,6 +4,12 @@ Navigate to **Dashboard** &rarr; **Pages** and click on Add New and select **Tou
 
 ![img](img/tours-search/tours-search-template.png)
 
+## Tours Listing Configuration
+
+You will also see a **Tours Listing Configuration** metabox where you can enter the number of tours to display on the **Tours Search Page** as shown in the screenshot below.
+
+![img](img/gallery-posts-per-page.png)
+
 ## Select Tours Search Results Page
 
 Go to **Dashboard** &rarr; **Appearance** &rarr; **Customize** &rarr; **Tours Search Page** and select the page for **Tours Search Results** (screenshot below).
