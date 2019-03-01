@@ -71,7 +71,8 @@ nav:
       - Create Tours Page: tour/create-tours-page.md 
     - Tour Detils Page: tour/settings/tour-detail-page.md
     - Taxonomy & Archive Pages: tour/taxonomy-and-archive-pages.md
-    - Other Pages:
+    - Other Pages: 
+      - Gallery Page: gallery-page.md
       - Blog/News Page: pages.md
       - Contact Page: contact-page.md
       - FAQs Page: faqs-page.md
