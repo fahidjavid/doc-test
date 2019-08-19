@@ -69,7 +69,7 @@ nav:
     - Tours & Tours Page:
       - Add New Tour: tour/add-tour.md
       - Create Tours Page: tour/create-tours-page.md 
-    - Tour Detils Page: tour/settings/tour-detail-page.md
+    - Tour Details Page: tour/settings/tour-detail-page.md
     - Taxonomy & Archive Pages: tour/taxonomy-and-archive-pages.md
     - Other Pages: 
       - Gallery Page: gallery-page.md

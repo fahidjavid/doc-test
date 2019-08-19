@@ -1,4 +1,4 @@
-!!! success "This documentation is last updated on 1 March 2019"
+!!! success "This documentation is last updated on 19 August 2019"
 
 ## **Introduction**
 Thanks for purchasing **TourPress - WordPress Theme for Travel or Tour Booking**. If you have any question that is beyond the scope of this documentation, feel free to ask that on our [support website](https://support.inspirythemes.com/). You can visit [this knowledge base article](https://support.inspirythemes.com/knowledgebase/how-to-get-themeforest-item-purchase-code/) to learn about how to get item purchase code from themeforest.net to sign-up on our support site.

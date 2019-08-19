@@ -8,6 +8,9 @@ These Destinations are coming from Easy Tour **Destinations Taxonomy**. You can 
 
 ![img](../../img/popular-destinations-setting.png)
 
-It will look like the below image on home page front-end
+!!! Note
+    Each destination must have a Featured Image assigned otherwise it will not be shown at the frontend.
 
-![img](../../img/homepage-popular-destinations-front.png)
+You can check out the view of Travel Destinations at frontend in the following screenshot.
+
+[ ![img](../../img/homepage-popular-destinations-front.png) ](../../img/homepage-popular-destinations-front.png)
